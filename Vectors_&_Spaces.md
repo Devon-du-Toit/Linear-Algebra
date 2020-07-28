@@ -59,6 +59,6 @@ __Colinear__: a set of vectors lying upon the same line.
 <br>
 <br>
 
-__Linearly Dependent__: The set of vectors {*x<sub>1</sub>,x<sub>2</sub>, . . . ,x<sub>n</sub>*} is linearly dependent if r<sub>1</sub>x<sub>1</sub>+r<sub>2</sub>x<sub>2</sub>+···+r<sub>k</sub>x<sub>k</sub> = 0 for some r1, r2, . . . , rk ∈ Rw here at least one of r1, r2, . . . , rk is non–zero.
+__Linearly Dependent__: The set of vectors ![equation](https://latex.codecogs.com/gif.latex?%5C%7B%20%5Coverrightarrow%7Bx%7D_%7B1%7D%2C%20%5Coverrightarrow%7Bx%7D_%7B2%7D%2C%20...%2C%20%5Coverrightarrow%7Bx%7D_%7Bn%7D%20%5C%7D) is linearly dependent if r<sub>1</sub>x<sub>1</sub>+r<sub>2</sub>x<sub>2</sub>+···+r<sub>k</sub>x<sub>k</sub> = 0 for some r1, r2, . . . , rk ∈ Rw here at least one of r1, r2, . . . , rk is non–zero.
 
 
