@@ -37,7 +37,13 @@ __Parametric representation of lines__: ![equation](https://latex.codecogs.com/g
 
 <br>
 
-__Linear Combination__: the set of all possible vectors from a set of initial vectors.
+__Linear Combination__: the sum of the scalar multiples of the vectors within a set.
 
 ![equation](https://latex.codecogs.com/gif.latex?Linear%20%5C%20Combination%20%5C%20of%20%5C%20%5Coverrightarrow%7Bv%7D_%7B1%7D%2C%5Coverrightarrow%7Bv%7D_%7B2%7D%2C...%2C%5Coverrightarrow%7Bv%7D_%7Bn%7D%20%5C%20in%20%5C%20%5Cmathbb%7BR%7D%20%5C%20%5Cnewline%20%3D%20%5C%20c_%7B1%7D%5Coverrightarrow%7Bv%7D_%7B1%7D&plus;c_%7B2%7D%5Coverrightarrow%7Bv%7D_%7B2%7D&plus;...&plus;c_%7Bn%7D%5Coverrightarrow%7Bv%7D_%7Bn%7D%20%5C%20for%20%5C%20c_%7B1%7D%5Crightarrow%20c_%7Bn%7D%20%5C%20%5Cepsilon%20%5C%20%5Cmathbb%7BR%7D)
+
+<br>
+<br>
+
+__Span__: the set of all linear combinations of a set of vectors. 
+
 
