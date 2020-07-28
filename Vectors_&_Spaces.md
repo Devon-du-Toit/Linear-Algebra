@@ -26,6 +26,9 @@ __Unit Vector__: a vector of magnitude 1 pointing in a specific direction. e.g.:
 
 __Parametric representation of lines__: ![equation](https://latex.codecogs.com/gif.latex?S%20%3D%20%5C%7B%20c%5Coverrightarrow%7Bv%7D%7Cc%5Cepsilon%20%5Cmathbb%7BR%7D%20%5C%7D) *S* is a set of colinear vectors (All possible vectors that may be formed by the scalar multiplication of *c* and ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bv%7D)):
 
+![set](https://user-images.githubusercontent.com/68278907/88681073-78c39200-d0f1-11ea-95cd-ddda14a32301.png)
+
+
 __Linear Combination__: the set of all possible vectors from a set of initial vectors: 
 
 ![equation](https://latex.codecogs.com/gif.latex?Linear%20%5C%20Combination%20%5C%20of%20%5C%20%5Coverrightarrow%7Bv%7D_%7B1%7D%2C%5Coverrightarrow%7Bv%7D_%7B2%7D%2C...%2C%5Coverrightarrow%7Bv%7D_%7Bn%7D%20%5C%20in%20%5C%20%5Cmathbb%7BR%7D%20%5C%20%5Cnewline%20%3D%20%5C%20c%5Coverrightarrow%7Bv%7D_%7B1%7D&plus;c%5Coverrightarrow%7Bv%7D_%7B2%7D&plus;...&plus;c%5Coverrightarrow%7Bv%7D_%7Bn%7D%20%5C%20for%20%5C%20c%20%5C%20%5Cepsilon%20%5C%20%5Cmathbb%7BR%7D)
