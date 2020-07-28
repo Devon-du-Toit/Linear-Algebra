@@ -24,3 +24,9 @@ __Unit Vector__: a vector of magnitude 1 pointing in a specific direction. e.g.:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cwidehat%7Bi%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%201%5C%5C%200%20%5Cend%7Bbmatrix%7D%2C%20%5Cwidehat%7Bj%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%200%5C%5C%201%20%5Cend%7Bbmatrix%7D) 
 
+__Parametric representation of lines__: ![equation](https://latex.codecogs.com/gif.latex?S%20%3D%20%5C%7B%20c%5Coverrightarrow%7Bv%7D%7Cc%5Cepsilon%20%5Cmathbb%7BR%7D%20%5C%7D) *S* is a set of colinear vectors (All possible vectors that may be formed by the scalar multiplication of *c* and ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bv%7D)):
+
+![set](https://user-images.githubusercontent.com/68278907/88674369-04d1bb80-d0ea-11ea-9c0c-7a8b8fac2f45.png)
+
+
+
