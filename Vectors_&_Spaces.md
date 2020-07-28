@@ -62,3 +62,16 @@ __Colinear__: a set of vectors lying upon the same line.
 __Linearly Dependent__: The set of vectors ![equation](https://latex.codecogs.com/gif.latex?%5C%7B%20%5Coverrightarrow%7Bx%7D_%7B1%7D%2C%20%5Coverrightarrow%7Bx%7D_%7B2%7D%2C%20...%2C%20%5Coverrightarrow%7Bx%7D_%7Bn%7D%20%5C%7D) is linearly dependent if ![equation](https://latex.codecogs.com/gif.latex?c_%7B1%7D%5Coverrightarrow%7Bx%7D_%7B1%7D&plus;%20c_%7B2%7D%5Coverrightarrow%7Bx%7D_%7B2%7D&plus;%20...&plus;%20c_%7Bn%7D%5Coverrightarrow%7Bx%7D_%7Bn%7D%3D%5Coverrightarrow%7B0%7D) for some ![equation](https://latex.codecogs.com/gif.latex?c_%7B1%7D%2C%20c_%7B2%7D%2C%20...%2Cc_%7Bn%7D%20%5C%20%5Cepsilon%20%5C%20%5Cmathbb%7BR%7D) where at least one of ![equation](https://latex.codecogs.com/gif.latex?c_%7B1%7D%2C%20c_%7B2%7D%2C%20...%2Cc_%7Bn%7D) is non–zero.
 
 
+Example: 
+
+![equation](https://latex.codecogs.com/gif.latex?are%20%5C%20%5Cbegin%7Bbmatrix%7D%202%5C%5C1%20%5Cend%7Bbmatrix%7D%20%5C%20and%20%5C%20%5Cbegin%7Bbmatrix%7D%203%5C%5C2%20%5Cend%7Bbmatrix%7D%5C%20linearly%20%5C%20dependent%3F)
+
+Solution:
+
+![equation](https://latex.codecogs.com/gif.latex?Test%20%5C%20if%20%5C%20c_%7B1%7D%5Cbegin%7Bbmatrix%7D%202%5C%5C1%20%5Cend%7Bbmatrix%7D%20&plus;%20c_%7B2%7D%5Cbegin%7Bbmatrix%7D%203%5C%5C2%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%200%5C%5C0%20%5Cend%7Bbmatrix%7D)
+
+![equation](https://latex.codecogs.com/gif.latex?c_%7B1%7D2&plus;c_%7B2%7D3%3D0%20%5C%20%5C%26%20%5C%20c_%7B1%7D1&plus;c_%7B2%7D2%3D0)
+
+![equation](https://latex.codecogs.com/gif.latex?c_%7B1%7D&plus;c_%7B2%7D%5Cfrac%7B3%7D%7B2%7D%3D0%20%5C%20%5C%26%20%5C%20c_%7B1%7D&plus;c_%7B2%7D2%3D0)
+
+![equation](https://latex.codecogs.com/gif.latex?c_%7B1%7D%20%3D%20-%5Cfrac%7B3%7D%7B2%7Dc_%7B2%7D%20%5C%20%5C%26%20%5C%20c_%7B1%7D%20%3D%20-2c_%7B2%7D%20%5Cnewline%20%5Ctherefore%20c_%7B1%7D%20%3D%20c_%7B2%7D%20%3D%200%20%5Cnewline%20%5Ctherefore%20linearly%20%5C%20independent)
