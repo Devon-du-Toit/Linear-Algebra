@@ -59,6 +59,6 @@ __Colinear__: a set of vectors lying upon the same line.
 <br>
 <br>
 
-__Linearly Dependent__: The set of vectors ![equation](https://latex.codecogs.com/gif.latex?%5C%7B%20%5Coverrightarrow%7Bx%7D_%7B1%7D%2C%20%5Coverrightarrow%7Bx%7D_%7B2%7D%2C%20...%2C%20%5Coverrightarrow%7Bx%7D_%7Bn%7D%20%5C%7D) is linearly dependent if ![equation](https://latex.codecogs.com/gif.latex?c_%7B1%7D%5Coverrightarrow%7Bx%7D_%7B1%7D&plus;%20c_%7B2%7D%5Coverrightarrow%7Bx%7D_%7B2%7D&plus;%20...&plus;%20c_%7Bn%7D%5Coverrightarrow%7Bx%7D_%7Bn%7D%20%3D%200) = 0 for some ![equation](https://latex.codecogs.com/gif.latex?c_%7B1%7D%2C%20c_%7B2%7D%2C%20...%2Cc_%7Bn%7D%20%5C%20%5Cepsilon%20%5C%20%5Cmathbb%7BR%7D) where at least one of ![equation](https://latex.codecogs.com/gif.latex?c_%7B1%7D%2C%20c_%7B2%7D%2C%20...%2Cc_%7Bn%7D) is non–zero.
+__Linearly Dependent__: The set of vectors ![equation](https://latex.codecogs.com/gif.latex?%5C%7B%20%5Coverrightarrow%7Bx%7D_%7B1%7D%2C%20%5Coverrightarrow%7Bx%7D_%7B2%7D%2C%20...%2C%20%5Coverrightarrow%7Bx%7D_%7Bn%7D%20%5C%7D) is linearly dependent if ![equation](https://latex.codecogs.com/gif.latex?c_%7B1%7D%5Coverrightarrow%7Bx%7D_%7B1%7D&plus;%20c_%7B2%7D%5Coverrightarrow%7Bx%7D_%7B2%7D&plus;%20...&plus;%20c_%7Bn%7D%5Coverrightarrow%7Bx%7D_%7Bn%7D%20%3D%200) for some ![equation](https://latex.codecogs.com/gif.latex?c_%7B1%7D%2C%20c_%7B2%7D%2C%20...%2Cc_%7Bn%7D%20%5C%20%5Cepsilon%20%5C%20%5Cmathbb%7BR%7D) where at least one of ![equation](https://latex.codecogs.com/gif.latex?c_%7B1%7D%2C%20c_%7B2%7D%2C%20...%2Cc_%7Bn%7D) is non–zero.
 
 
