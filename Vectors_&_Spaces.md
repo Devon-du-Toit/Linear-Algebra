@@ -1,8 +1,19 @@
 <h1>Vectors and Spaces</h1>
 
-__Vector__: ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7D) quantity that has both direction and magnitude.
+__Vector__: ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7D) a quantity that has both direction and magnitude.
 
 __Real Coordinate Space__: ![equation](https://latex.codecogs.com/gif.latex?%5Cmathbb%7BR%7D%5E%7Bn%7D) all possible real-valued n-tuples (*n* ordered list of elements)
  e.g.  ![equation](https://latex.codecogs.com/gif.latex?%5Cmathbb%7BR%7D%5E%7B3%7D) :
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20x%5C%5C%20y%5C%5C%20z%20%5Cend%7Bbmatrix%7D%20x%2C%20y%2C%20z%20%5Cepsilon%20%5Cmathbb%7BR%7D)
+
+__Vector Addition__: if vectors ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7D) and ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7By%7D) are of the same dimension, they may be added algebraically: ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7D) + ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7By%7D) = 
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D&plus;y_%7B1%7D%5C%5C%20x_%7B2%7D&plus;y_%7B2%7D%20%5C%5C%20...%20%5C%5C%20x_%7Bn%7D&plus;y_%7Bn%7D%20%5Cend%7Bbmatrix%7D)
+
+Graphical representation: 
+
+![grid](https://user-images.githubusercontent.com/68278907/88667100-37c38180-d0e1-11ea-845d-3a75d6400502.png)
+
+
+__Vector Scalar Multiplication__: ![equation](https://latex.codecogs.com/gif.latex?%5Calpha%20%5Cbegin%7Bbmatrix%7D%20x%5C%5Cy%5C%5Cz%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20%5Calpha%20x%5C%5C%5Calpha%20y%5C%5C%5Calpha%20z%20%5Cend%7Bbmatrix%7D)
