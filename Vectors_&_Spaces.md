@@ -16,4 +16,8 @@ Graphical representation:
 ![grid](https://user-images.githubusercontent.com/68278907/88667100-37c38180-d0e1-11ea-845d-3a75d6400502.png)
 
 
-__Vector Scalar Multiplication__: ![equation](https://latex.codecogs.com/gif.latex?%5Calpha%20%5Cbegin%7Bbmatrix%7D%20x%5C%5Cy%5C%5Cz%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20%5Calpha%20x%5C%5C%5Calpha%20y%5C%5C%5Calpha%20z%20%5Cend%7Bbmatrix%7D)
+__Vector Scalar Multiplication__: 
+
+![equation](https://latex.codecogs.com/gif.latex?%5Calpha%20%5Cbegin%7Bbmatrix%7D%20x%5C%5Cy%5C%5Cz%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20%5Calpha%20x%5C%5C%5Calpha%20y%5C%5C%5Calpha%20z%20%5Cend%7Bbmatrix%7D)
+
+
