@@ -20,4 +20,7 @@ __Vector Scalar Multiplication__:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Calpha%20%5Cbegin%7Bbmatrix%7D%20x%5C%5Cy%5C%5Cz%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20%5Calpha%20x%5C%5C%5Calpha%20y%5C%5C%5Calpha%20z%20%5Cend%7Bbmatrix%7D)
 
+__Unit Vector__: a vector of magnitude 1 pointing in a specific direction. e.g.:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cwidehat%7Bi%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%201%5C%5C%200%20%5Cend%7Bbmatrix%7D%2C%20%5Cwidehat%7Bj%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%200%5C%5C%201%20%5Cend%7Bbmatrix%7D) 
 
