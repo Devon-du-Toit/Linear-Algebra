@@ -1,6 +1,6 @@
 <h1>Vectors and Spaces</h1>
 
-__Vector__: ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7Da) quantity that has both direction and magnitude.
+__Vector__: ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7D) quantity that has both direction and magnitude.
 
 __Real Coordinate Space__: ![equation](https://latex.codecogs.com/gif.latex?%5Cmathbb%7BR%7D%5E%7Bn%7D) all possible real-valued n-tuples (*n* ordered list of elements)
  e.g.  ![equation](https://latex.codecogs.com/gif.latex?%5Cmathbb%7BR%7D%5E%7B3%7D) :
