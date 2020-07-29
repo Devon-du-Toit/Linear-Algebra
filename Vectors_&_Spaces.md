@@ -130,3 +130,12 @@ __Properties of the Dot Product__:
 2. ![equation](https://latex.codecogs.com/gif.latex?%5C%28%20%5Coverrightarrow%7Ba%7D%20&plus;%20%5Coverrightarrow%7Bb%7D%20%5C%29%20%5Ccdot%20%5Coverrightarrow%7Bc%7D%20%3D%20%5Coverrightarrow%7Ba%7D%20%5Ccdot%20%5Coverrightarrow%7Bc%7D%20&plus;%20%5Coverrightarrow%7Bb%7D%20%5Ccdot%20%5Coverrightarrow%7Bc%7D)
 
 3. ![equation](https://latex.codecogs.com/gif.latex?%5C%28%20c%5Coverrightarrow%7Ba%7D%20%5C%29%5Ccdot%20%5Coverrightarrow%7Bb%7D%20%3D%20c%5C%28%20%5Coverrightarrow%7Ba%7D%20%5Ccdot%20%5Coverrightarrow%7Bb%7D%20%5C%29)
+
+<br>
+<br>
+
+__Cauchy_Schwarz inequality__: suupose we have two non-zero vectors x&#8407; and y&#8407; such that:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7D%2C%5Coverrightarrow%7By%7D%20%5C%20%5Cepsilon%20%5C%20%5Cmathbb%7BR%7D%5E%7Bn%7D). Then the Cauchy-Schwarz inequality states that:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cleft%20%7C%20%5Coverrightarrow%7Bx%7D%20%5Ccdot%20%5Coverrightarrow%7By%7D%20%5Cright%20%7C%20%5Cleq%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7Bx%7D%20%5Cright%20%5C%7C%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7By%7D%20%5Cright%20%5C%7C)
