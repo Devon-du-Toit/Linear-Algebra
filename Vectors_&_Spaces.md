@@ -112,4 +112,15 @@ __Dot Product__:  scalar sum of the products of the corresponding entries of the
 <br>
 <br>
 
-__Vector Length__: ![equation](https://latex.codecogs.com/gif.latex?%5Cleft%20%5C%7C%20%5Coverrightarrow%7Ba%7D%20%5Cright%20%5C%7C%20%3D%20%5Csqrt%7Ba_%7B1%7D%5E%7B2%7D&plus;a_%7B2%7D%5E%7B2%7D&plus;...&plus;a_%7Bn%7D%5E%7B2%7D%7D)
+__Vector Length__: The length of a vector may be determined by:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cleft%20%5C%7C%20%5Coverrightarrow%7Ba%7D%20%5Cright%20%5C%7C%20%3D%20%5Csqrt%7Ba_%7B1%7D%5E%7B2%7D&plus;a_%7B2%7D%5E%7B2%7D&plus;...&plus;a_%7Bn%7D%5E%7B2%7D%7D)
+
+I.t.o. the Dot Product, length of a vector may be found by:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cleft%20%5C%7C%20%5Coverrightarrow%7Ba%7D%20%5Cright%20%5C%7C%5E%7B2%7D%20%3D%20%5Coverrightarrow%7Ba%7D%5Ccdot%20%5Coverrightarrow%7Ba%7D)
+
+<br>
+<br>
+
+
