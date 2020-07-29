@@ -188,4 +188,11 @@ __Plane in R<sup>3</sup>__: A plane in 3-dimensions may be represented by a poin
 
 ![equation](https://latex.codecogs.com/gif.latex?for%20%5C%20%5Coverrightarrow%7Bn%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20n_%7B1%7D%5C%5Cn_%7B2%7D%5C%5Cn_%7B3%7D%20%5Cend%7Bbmatrix%7D%20%5C%20the%20%5C%20normal%20%5C%20vector%20%5C%20and%20%5C%20point%20%5C%20%5Coverrightarrow%7Bp%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20x_%7B0%7D%5C%5Cy_%7B0%7D%5C%5Cz_%7B0%7D%20%5Cend%7Bbmatrix%7D%20%5C%20on%20%5C%20the%20%5C%20plane.)
 
+<br>
+<br>
 
+__Cross Product__: a binary operation on two vectors in three-dimensional space.
+
+![equation](https://latex.codecogs.com/gif.latex?if%20%5C%20%5Coverrightarrow%7Ba%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20a_%7B1%7D%5C%5Ca_%7B2%7D%5C%5Ca_%7B3%7D%20%5Cend%7Bbmatrix%7D%20%5C%20and%20%5C%20%5Coverrightarrow%7Bb%7D%20%3D%5Cbegin%7Bbmatrix%7D%20b_%7B1%7D%5C%5Cb_%7B2%7D%5C%5Cb_%7B3%7D%20%5Cend%7Bbmatrix%7D%20%5C%20the%20%5C%20cross%20%5C%20product%20%5C%20%5C%28%20%5C%20%5Coverrightarrow%7Ba%7D%5Ctimes%20%5Coverrightarrow%7Bb%7D%20%5C%29%20%5C%20is%3A)
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20a_%7B2%7Db_%7B3%7D-a_%7B3%7Db_%7B2%7D%5C%5C-a_%7B1%7Db_%7B3%7D&plus;a_%7B3%7Db_%7B1%7D%5C%5Ca_%7B1%7Db_%7B2%7D-a_%7B2%7Db_%7B1%7D%20%5Cend%7Bbmatrix%7D)
