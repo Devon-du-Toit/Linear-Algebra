@@ -167,4 +167,9 @@ is when:
 <br>
 <br>
 
+__Angle between vectors__: let a&#8407; and b&#8407; be nonzero vectors such that:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Ba%7D%2C%20%5Coverrightarrow%7Bb%7D%20%5C%20%5Cepsilon%20%5C%20%5Cmathbb%7BR%7D%5E%7Bn%7D)
+
+![tri_neg](https://user-images.githubusercontent.com/68278907/88818787-62840780-d1bf-11ea-8c04-fa7ab0e9b10c.png)
 
