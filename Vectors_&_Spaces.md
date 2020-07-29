@@ -219,3 +219,9 @@ for the triangle:
 ![tri_id](https://user-images.githubusercontent.com/68278907/88842049-295b8f80-d1df-11ea-8b2d-6098ec00d7e0.png)
 
 
+<br>
+<br>
+
+__Lagrange's Formula__: Also known as the vector triple product:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Ba%7D%20%5Ctimes%20%5C%28%20%5Coverrightarrow%7Bb%7D%20%5Ctimes%20%5Coverrightarrow%7Bc%7D%20%5C%29%20%3D%20%5Coverrightarrow%7Bb%7D%20%5C%28%20%5Coverrightarrow%7Ba%7D%5Ccdot%20%5Coverrightarrow%7Bc%7D%20%5C%29%20-%20%5Coverrightarrow%7Bc%7D%20%5C%28%20%5Coverrightarrow%7Ba%7D%20%5Ccdot%20%5Coverrightarrow%7Bb%7D%20%5C%29)
