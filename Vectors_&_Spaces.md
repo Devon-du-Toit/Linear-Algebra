@@ -108,3 +108,8 @@ __Basis__: a set *S* of vectors in a vector space *V* is called a basis, if the 
 __Dot Product__:  scalar sum of the products of the corresponding entries of the vectors.
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Ba%7D%20%5Ccdot%20%5Coverrightarrow%7Bb%7D%20%3D%20a_%7B1%7Db_%7B1%7D&plus;a_%7B2%7Db_%7B2%7D&plus;...&plus;a_%7Bn%7Db_%7Bn%7D)
+
+<br>
+<br>
+
+__Vector Length__: ![equation](https://latex.codecogs.com/gif.latex?%5Cleft%20%5C%7C%20%5Coverrightarrow%7Ba%7D%20%5Cright%20%5C%7C%20%3D%20%5Csqrt%7Ba_%7B1%7D%5E%7B2%7D&plus;a_%7B2%7D%5E%7B2%7D&plus;...&plus;a_%7Bn%7D%5E%7B2%7D%7D)
