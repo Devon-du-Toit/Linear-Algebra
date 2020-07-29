@@ -197,6 +197,7 @@ __Cross Product__: a binary operation on two vectors in three-dimensional space.
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20a_%7B2%7Db_%7B3%7D-a_%7B3%7Db_%7B2%7D%5C%5C-a_%7B1%7Db_%7B3%7D&plus;a_%7B3%7Db_%7B1%7D%5C%5Ca_%7B1%7Db_%7B2%7D-a_%7B2%7Db_%7B1%7D%20%5Cend%7Bbmatrix%7D)
 
+In relation to the angle  between vectors a&#8407; and b&#8407;:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cleft%20%5C%7C%20%5Coverrightarrow%7Ba%7D%20%5Ctimes%20%5Coverrightarrow%7Bb%7D%5Cright%20%5C%7C%20%3D%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7Ba%7D%20%5Cright%20%5C%7C%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7Bb%7D%20%5Cright%20%5C%7Csin%5CTheta)
 
