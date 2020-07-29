@@ -131,6 +131,8 @@ __Properties of the Dot Product__:
 
 3. ![equation](https://latex.codecogs.com/gif.latex?%5C%28%20c%5Coverrightarrow%7Ba%7D%20%5C%29%5Ccdot%20%5Coverrightarrow%7Bb%7D%20%3D%20c%5C%28%20%5Coverrightarrow%7Ba%7D%20%5Ccdot%20%5Coverrightarrow%7Bb%7D%20%5C%29)
 
+4. ![equation](https://latex.codecogs.com/gif.latex?if%20%5C%20%5Coverrightarrow%7Ba%7D%20%5Cperp%20%5Coverrightarrow%7Bb%7D%20%5C%20then%20%5C%20%5Coverrightarrow%7Ba%7D%20%5Ccdot%5Coverrightarrow%7Bb%7D%20%3D%200)
+
 <br>
 <br>
 
