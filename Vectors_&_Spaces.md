@@ -82,7 +82,7 @@ Solution:
 __Subspace__: a vector space that is contained within another vector space: Suppose that *V* and *W* are two vector spaces that have identical definitions of vector addition and scalar multiplication, and that *W* is a subset of *V*, *W ⊆ V*. Then *W* is a subspace of *V*.
 
 Above may be simplified under 3 conditions:
-1. *0*x&#8407; needs to be within the subspace.
+1. 0&#8407; needs to be within the subspace.
 2. It must be closed under addition.
 3. It must be closed under scalar multiplication.
 
@@ -99,3 +99,4 @@ __Closure under addition__: suppose a&#8407; and b&#8407; is in *V*, then a&#840
 <br>
 <br>
 
+__Basis__: a set *S* of vectors in a vector space *V* is called a basis, if every element of *V* may be written as a linear independent combination of elements of *S*. 
