@@ -134,8 +134,14 @@ __Properties of the Dot Product__:
 <br>
 <br>
 
-__Cauchy_Schwarz inequality__: suupose we have two non-zero vectors x&#8407; and y&#8407; such that:
+__Cauchy_Schwarz inequality__: suppose we have two non-zero vectors x&#8407; and y&#8407; such that:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7D%2C%5Coverrightarrow%7By%7D%20%5C%20%5Cepsilon%20%5C%20%5Cmathbb%7BR%7D%5E%7Bn%7D). Then the Cauchy-Schwarz inequality states that:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cleft%20%7C%20%5Coverrightarrow%7Bx%7D%20%5Ccdot%20%5Coverrightarrow%7By%7D%20%5Cright%20%7C%20%5Cleq%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7Bx%7D%20%5Cright%20%5C%7C%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7By%7D%20%5Cright%20%5C%7C)
+
+The only case where ![equation](https://latex.codecogs.com/gif.latex?%5Cleft%20%7C%20%5Coverrightarrow%7Bx%7D%20%5Ccdot%20%5Coverrightarrow%7By%7D%20%5Cright%20%7C%20%3D%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7Bx%7D%20%5Cright%20%5C%7C%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7By%7D%20%5Cright%20%5C%7C)
+
+will be when:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7D%20%3D%20c%5Coverrightarrow%7By%7D)
