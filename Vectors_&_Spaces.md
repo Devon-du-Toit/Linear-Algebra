@@ -99,4 +99,9 @@ __Closure under addition__: suppose a&#8407; and b&#8407; is in *V*, then a&#840
 <br>
 <br>
 
-__Basis__: a set *S* of vectors in a vector space *V* is called a basis, if every element of *V* may be written as a linear independent combination of elements of *S*. 
+__Basis__: a set *S* of vectors in a vector space *V* is called a basis, if the vector set *S* is linearly independent. This may interpreted as the minimum set of vectors needed to span the subspace.
+
+<br>
+<br>
+
+
