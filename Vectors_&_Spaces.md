@@ -80,3 +80,22 @@ Solution:
 <br>
 
 __Subspace__: a vector space that is contained within another vector space: Suppose that *V* and *W* are two vector spaces that have identical definitions of vector addition and scalar multiplication, and that *W* is a subset of *V*, *W ⊆ V*. Then *W* is a subspace of *V*.
+
+Above may be simplified under 3 conditions:
+1. *0*x&#8407; needs to be within the subspace.
+2. It must be closed under addition.
+3. It must be closed under scalar multiplication.
+
+<br>
+<br>
+
+__Closure under scalar multiplication__: suppose x&#8407; is a subset of *V*. *c*x&#8407; for *c* a constant is therefore also a subset of *V*.
+
+<br>
+<br>
+
+__Closure under addition__: suppose a&#8407; and b&#8407; is in *V*, then a&#8407; + b&#8407; is also in *V*.
+
+<br>
+<br>
+
