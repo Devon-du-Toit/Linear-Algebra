@@ -196,3 +196,7 @@ __Cross Product__: a binary operation on two vectors in three-dimensional space.
 ![equation](https://latex.codecogs.com/gif.latex?if%20%5C%20%5Coverrightarrow%7Ba%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20a_%7B1%7D%5C%5Ca_%7B2%7D%5C%5Ca_%7B3%7D%20%5Cend%7Bbmatrix%7D%20%5C%20and%20%5C%20%5Coverrightarrow%7Bb%7D%20%3D%5Cbegin%7Bbmatrix%7D%20b_%7B1%7D%5C%5Cb_%7B2%7D%5C%5Cb_%7B3%7D%20%5Cend%7Bbmatrix%7D%20%5C%20the%20%5C%20cross%20%5C%20product%20%5C%20%5C%28%20%5C%20%5Coverrightarrow%7Ba%7D%5Ctimes%20%5Coverrightarrow%7Bb%7D%20%5C%29%20%5C%20is%3A)
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20a_%7B2%7Db_%7B3%7D-a_%7B3%7Db_%7B2%7D%5C%5C-a_%7B1%7Db_%7B3%7D&plus;a_%7B3%7Db_%7B1%7D%5C%5Ca_%7B1%7Db_%7B2%7D-a_%7B2%7Db_%7B1%7D%20%5Cend%7Bbmatrix%7D)
+
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cleft%20%5C%7C%20%5Coverrightarrow%7Ba%7D%20%5Ctimes%20%5Coverrightarrow%7Bb%7D%5Cright%20%5C%7C%20%3D%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7Ba%7D%20%5Cright%20%5C%7C%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7Bb%7D%20%5Cright%20%5C%7Csin%5CTheta)
+
