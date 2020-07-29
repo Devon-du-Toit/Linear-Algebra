@@ -123,4 +123,10 @@ I.t.o. the Dot Product, length of a vector may be found by:
 <br>
 <br>
 
+__Properties of the Dot Product__: 
 
+1. ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Ba%7D%5Ccdot%20%5Coverrightarrow%7Bb%7D%20%3D%20%5Coverrightarrow%7Bb%7D%5Ccdot%20%5Coverrightarrow%7Ba%7D)
+
+2. ![equation](https://latex.codecogs.com/gif.latex?%5C%28%20%5Coverrightarrow%7Ba%7D%20&plus;%20%5Coverrightarrow%7Bb%7D%20%5C%29%20%5Ccdot%20%5Coverrightarrow%7Bc%7D%20%3D%20%5Coverrightarrow%7Ba%7D%20%5Ccdot%20%5Coverrightarrow%7Bc%7D%20&plus;%20%5Coverrightarrow%7Bb%7D%20%5Ccdot%20%5Coverrightarrow%7Bc%7D)
+
+3. ![equation](https://latex.codecogs.com/gif.latex?%5C%28%20c%5Coverrightarrow%7Ba%7D%20%5C%29%5Ccdot%20%5Coverrightarrow%7Bb%7D%20%3D%20c%5C%28%20%5Coverrightarrow%7Ba%7D%20%5Ccdot%20%5Coverrightarrow%7Bb%7D%20%5C%29)
