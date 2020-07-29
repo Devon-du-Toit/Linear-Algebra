@@ -75,3 +75,8 @@ Solution:
 ![equation](https://latex.codecogs.com/gif.latex?c_%7B1%7D&plus;c_%7B2%7D%5Cfrac%7B3%7D%7B2%7D%3D0%20%5C%20%5C%26%20%5C%20c_%7B1%7D&plus;c_%7B2%7D2%3D0)
 
 ![equation](https://latex.codecogs.com/gif.latex?c_%7B1%7D%20%3D%20-%5Cfrac%7B3%7D%7B2%7Dc_%7B2%7D%20%5C%20%5C%26%20%5C%20c_%7B1%7D%20%3D%20-2c_%7B2%7D%20%5Cnewline%20%5Ctherefore%20c_%7B1%7D%20%3D%20c_%7B2%7D%20%3D%200%20%5Cnewline%20%5Ctherefore%20linearly%20%5C%20independent)
+
+<br>
+<br>
+
+__Subspace__: a vector space that is contained within another vector space: Suppose that *V* and *W* are two vector spaces that have identical definitions of vector addition and scalar multiplication, and that *W* is a subset of *V*, *W ⊆ V*. Then *W* is a subspace of *V*.
