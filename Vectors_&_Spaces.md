@@ -188,9 +188,16 @@ __Plane in R<sup>3</sup>__: A plane in 3-dimensions may be represented by a poin
 
 ![equation](https://latex.codecogs.com/gif.latex?for%20%5C%20%5Coverrightarrow%7Bn%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20n_%7B1%7D%5C%5Cn_%7B2%7D%5C%5Cn_%7B3%7D%20%5Cend%7Bbmatrix%7D%20%5C%20the%20%5C%20normal%20%5C%20vector%20%5C%20and%20%5C%20point%20%5C%20%5Coverrightarrow%7Bp%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20x_%7B0%7D%5C%5Cy_%7B0%7D%5C%5Cz_%7B0%7D%20%5Cend%7Bbmatrix%7D%20%5C%20on%20%5C%20the%20%5C%20plane.)
 <br>
-To find the normal vector from a given plane in *R<sup>3</sup>*:
+__To find the normal vector from a given plane in *R<sup>3</sup>*__:
 
 ![equation](https://latex.codecogs.com/gif.latex?if%20%5C%20the%5C%20plane%20%5C%20is%20%5C%20given%5C%20by%5C%20Ax&plus;By&plus;Cz%3DD%2C%20%5C%20the%20%5C%20normal%20%5C%20vector%20%5C%20is%20%5C%20%5Cnewline%20%5Coverrightarrow%7Bn%7D%3D%5Cbegin%7Bbmatrix%7D%20A%5C%5C%20B%5C%5CC%5Cend%7Bbmatrix%7D)
+
+<br>
+<br>
+
+__Distance of a point from a plane in *R<sup>3</sup>__: 
+
+![equation](https://latex.codecogs.com/gif.latex?given%20%5C%20point%20%5C%20%5Coverrightarrow%7Bp%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20x_%7B0%7D%5C%5Cy_%7B0%7D%20%5C%5Cz_%7B0%7D%20%5Cend%7Bbmatrix%7D%20%5C%20and%20%5C%20plane%20%5C%20Ax&plus;By&plus;Cz%3DD%2C%20%5C%20the%20%5C%20distance%20%5C%20is%20%5C%20given%20%5C%20by%3A%20%5Cnewline%20d%3D%5Cfrac%7BAx_%7B0%7D&plus;By_%7B0%7D&plus;Cz_%7B0%7D-D%7D%7B%5Csqrt%7BA%5E%7B2%7D&plus;B%5E%7B2%7D&plus;C%5E%7B2%7D%7D%7D)
 
 <br>
 <br>
