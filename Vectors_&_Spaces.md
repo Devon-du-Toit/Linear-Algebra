@@ -145,3 +145,18 @@ The only case where ![equation](https://latex.codecogs.com/gif.latex?%5Cleft%20%
 will be when:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7D%20%3D%20c%5Coverrightarrow%7By%7D)
+
+<br>
+<br>
+
+__Vector Triangle Inequality__: 
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cleft%20%5C%7C%20%5Coverrightarrow%7Bx%7D&plus;%5Coverrightarrow%7By%7D%20%5Cright%20%5C%7C%5Cleq%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7Bx%7D%20%5Cright%20%5C%7C&plus;%5Cleft%20%5C%7C%20%5Coverrightarrow%7By%7D%20%5Cright%20%5C%7C)
+
+
+![tri](https://user-images.githubusercontent.com/68278907/88816735-fef8da80-d1bc-11ea-871c-f932b6773958.png)
+
+<br>
+<br>
+
+
