@@ -171,6 +171,10 @@ __Angle between vectors__: let a&#8407; and b&#8407; be nonzero vectors such tha
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Ba%7D%2C%20%5Coverrightarrow%7Bb%7D%20%5C%20%5Cepsilon%20%5C%20%5Cmathbb%7BR%7D%5E%7Bn%7D)
 
-![tri_neg](![tri_neg](https://user-images.githubusercontent.com/68278907/88819711-a62b4100-d1c0-11ea-8c92-e345d4756848.png)
+![tri_neg]((https://user-images.githubusercontent.com/68278907/88819711-a62b4100-d1c0-11ea-8c92-e345d4756848.png)
+
+then:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Ba%7D%20%5Ccdot%20%5Coverrightarrow%7Bb%7D%20%3D%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7Ba%7D%20%5Cright%20%5C%7C%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7Bb%7D%20%5Cright%20%5C%7C%20cos%5CTheta)
 
 
