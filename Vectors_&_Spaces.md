@@ -162,7 +162,7 @@ The only case where:
 
 is when:
 
-![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7D%3Dc%5Coverrightarrow%7By%7D)
+![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7D%3Dc%5Coverrightarrow%7By%7D%20%5C%20for%20%5C%20c%20%5C%20%5Cepsilon%20%5C%20%5Cmathbb%7BR%7D_%7B%5Cgeq%200%7D)
 
 <br>
 <br>
