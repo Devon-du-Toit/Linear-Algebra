@@ -201,3 +201,21 @@ In relation to the angle  between vectors a&#8407; and b&#8407;:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cleft%20%5C%7C%20%5Coverrightarrow%7Ba%7D%20%5Ctimes%20%5Coverrightarrow%7Bb%7D%5Cright%20%5C%7C%20%3D%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7Ba%7D%20%5Cright%20%5C%7C%20%5Cleft%20%5C%7C%20%5Coverrightarrow%7Bb%7D%20%5Cright%20%5C%7Csin%5CTheta)
 
+<br>
+<br>
+
+__Triangle Identities__: the angles and lengths of triangles may be found using the identities contained within the phrase:
+
+__*soh cah toa*__
+
+soh: ![equation](https://latex.codecogs.com/gif.latex?sin%5CTheta%20%3D%20%5Cfrac%7Bopposite%7D%7Bhypotenuse%7D)
+
+cah: ![equation](https://latex.codecogs.com/gif.latex?cos%5CTheta%20%3D%20%5Cfrac%7Badjacent%7D%7Bhypotenuse%7D)
+
+toa: ![equation](https://latex.codecogs.com/gif.latex?tan%5CTheta%20%3D%20%5Cfrac%7Bopposite%7D%7Badjacent%7D)
+
+for the triangle:
+
+![tri_id](https://user-images.githubusercontent.com/68278907/88842049-295b8f80-d1df-11ea-8b2d-6098ec00d7e0.png)
+
+
