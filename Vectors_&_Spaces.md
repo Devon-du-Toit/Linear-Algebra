@@ -236,3 +236,9 @@ for the triangle:
 __Lagrange's Formula__: Also known as the vector triple product:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Ba%7D%20%5Ctimes%20%5C%28%20%5Coverrightarrow%7Bb%7D%20%5Ctimes%20%5Coverrightarrow%7Bc%7D%20%5C%29%20%3D%20%5Coverrightarrow%7Bb%7D%20%5C%28%20%5Coverrightarrow%7Ba%7D%5Ccdot%20%5Coverrightarrow%7Bc%7D%20%5C%29%20-%20%5Coverrightarrow%7Bc%7D%20%5C%28%20%5Coverrightarrow%7Ba%7D%20%5Ccdot%20%5Coverrightarrow%7Bb%7D%20%5C%29)
+
+<br>
+<br>
+
+__Row echelon form__: given a system of equations:
+
