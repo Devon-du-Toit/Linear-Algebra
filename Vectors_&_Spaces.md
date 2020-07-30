@@ -301,4 +301,10 @@ __Homogeneous equation__: a matrix __A__ vector x&#8407; product is homogeneous 
 <br>
 <br>
 
-__Null Space__: given a matrix __A__ the null space of __A__ is the set of all vectors which solves  __A__ v&#8407; = __o&#8407;__.
+__Nullspace__: given a matrix __A__ the nullspace of __A__ is the set of all vectors which solves  __A__ x&#8407; = __o&#8407;__:
+
+![equation](https://latex.codecogs.com/gif.latex?N%5C%28%20A%5C%29%20%3D%5C%7B%20%5Coverrightarrow%7Bx%7D%20%5C%20%5Cepsilon%20%5C%20%5Cmathbb%7BR%7D%5E%7Bn%7D%20%7C%20A%5Coverrightarrow%7Bx%7D%3D%5Coverrightarrow%7B0%7D%20%5C%7D)
+
+The solutions may be found by using a __0&#8407;__ augmented matrix __A__ and solvinving it via the reduced row echelon form:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20a_%7B11%7D%26%20a_%7B12%7D%20%26...%20%26a_%7B1n%7D%7C%20%260%20%5C%5C%20a_%7B21%7D%26%20a_%7B22%7D%20%26...%20%26a_%7B2n%7D%7C%20%260%20%5C%5C%20...%26%20...%26%20...%26%20%5C%20%5C%20%5C%20%5C%20%7C%20%26...%20%5C%5C%20a_%7Bm1%7D%26%20a_%7Bm2%7D%20%26...%20%26a_%7Bmn%7D%7C%20%260%20%5Cend%7Bbmatrix%7D)
