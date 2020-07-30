@@ -246,4 +246,4 @@ __Row echelon form__: given a system of equations:
 
 we may represent this as a matrix:
 
-
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%201%26%202%20%26%201%20%26%20%5Cleft.%5Cbegin%7Bmatrix%7D%201%20%5Cend%7Bmatrix%7D%5Cright%7C%20%26%207%5C%5C%201%26%202%20%26%202%20%26%20%5Cleft.%5Cbegin%7Bmatrix%7D%20-1%20%5Cend%7Bmatrix%7D%5Cright%7C%20%26%2012%5C%5C%202%26%204%20%26%200%20%26%20%5Cleft.%5Cbegin%7Bmatrix%7D%206%5Cend%7Bmatrix%7D%5Cright%7C%20%264%5C%5C%20%5Cend%7Bbmatrix%7D)
