@@ -104,6 +104,11 @@ __Basis__: a set *S* of vectors in a vector space *V* is called a basis, if the 
 <br>
 <br>
 
+__Dimension of a subspace__: the number of elements within a basis contained in a subspace.
+
+<br>
+<br>
+
 
 __Dot Product__:  scalar sum of the products of the corresponding entries of the vectors.
 
