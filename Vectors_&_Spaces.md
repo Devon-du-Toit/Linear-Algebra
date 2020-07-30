@@ -244,7 +244,7 @@ __Row echelon form__: given a system of equations:
 
 ![equations](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20x_%7B1%7D&plus;2x_%7B2%7D&plus;x_%7B3%7D&plus;x_%7B4%7D%7B%7D%26%3D7%20%5C%5C%20x_%7B1%7D&plus;2x_%7B2%7D&plus;2x_%7B3%7D-x_%7B4%7D%7B%7D%26%3D12%20%5C%5C%202x_%7B1%7D&plus;4x_%7B2%7D&plus;6x_%7B4%7D%7B%7D%26%3D4%20%5Cend%7Balign*%7D)
 
-we may represent this as a matrix:
+we may represent this as a *m x n* matrix (m = rows, n = columns):
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%201%26%202%20%26%201%20%26%20%5Cleft.%5Cbegin%7Bmatrix%7D%201%20%5Cend%7Bmatrix%7D%5Cright%7C%20%26%207%5C%5C%201%26%202%20%26%202%20%26%20%5Cleft.%5Cbegin%7Bmatrix%7D%20-1%20%5Cend%7Bmatrix%7D%5Cright%7C%20%26%2012%5C%5C%202%26%204%20%26%200%20%26%20%5Cleft.%5Cbegin%7Bmatrix%7D%206%5Cend%7Bmatrix%7D%5Cright%7C%20%264%5C%5C%20%5Cend%7Bbmatrix%7D)
 
@@ -278,3 +278,13 @@ the system has no solution.
 
 <br>
 <br>
+
+__Matrix vector product__: given an *m x n* matrix __A__:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20a_%7B11%7D%26%20a_%7B12%7D%26%20...%26%20a_%7B1n%7D%5C%5C%20a_%7B21%7D%26%20a_%7B22%7D%26%20...%26%20a_%7B2n%7D%5C%5C%20...%26%20...%26%20...%26%20...%5C%5C%20a_%7Bm1%7D%26%20a_%7Bm2%7D%26%20...%26%20a_%7Bmn%7D%7B%7D%20%5Cend%7Bbmatrix%7D)
+
+the matrix may be multiplied by a vector __x&#8407;__:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5C%20x_%7B2%7D%5C%5C%20...%5C%5C%20x_%7Bn%7D%20%5Cend%7Bbmatrix%7D)
+
+if the number of columns (n) of the matrix __A__ correspond to the number of rows of the matrix __x&#8407;__.
