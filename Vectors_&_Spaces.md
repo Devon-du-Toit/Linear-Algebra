@@ -267,7 +267,7 @@ __Free varaible__: if a reduced row echeon form matrix has any values except 0 l
 
 above, x<sub>n</sub> is a free variable. This implies that x<sub>n</sub> has no unique solution.
 
-This gives the answer:
+This gives the solution vectors:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5C%20x_%7B2%7D%5C%5C%20...%5C%5C%20x_%7Bn%7D%20%5Cend%7Bbmatrix%7D%20%3D%20x_%7B2%7D%5Cbegin%7Bbmatrix%7D%200%5C%5C%20y_%7B2%7D%5C%5C%20...%5C%5C%200%20%5Cend%7Bbmatrix%7D&plus;%20...%20&plus;%20x_%7Bn%7D%5Cbegin%7Bbmatrix%7D%20y_%7B1%7D-1%5C%5C%200%5C%5C%20...%5C%5C%201%20%5Cend%7Bbmatrix%7D)
 <br>
@@ -311,6 +311,15 @@ __Nullspace__: given a matrix __A__ the nullspace of __A__ is the set of all vec
 The solutions may be found by using a __o&#8407;__ augmented matrix __A__ and solvinving it via the reduced row echelon form:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20a_%7B11%7D%26%20a_%7B12%7D%20%26...%20%26a_%7B1n%7D%7C%20%260%20%5C%5C%20a_%7B21%7D%26%20a_%7B22%7D%20%26...%20%26a_%7B2n%7D%7C%20%260%20%5C%5C%20...%26%20...%26%20...%26%20%5C%20%5C%20%5C%20%5C%20%7C%20%26...%20%5C%5C%20a_%7Bm1%7D%26%20a_%7Bm2%7D%20%26...%20%26a_%7Bmn%7D%7C%20%260%20%5Cend%7Bbmatrix%7D)
+
+If there are free variables such that the solutions are:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5C%20x_%7B2%7D%5C%5C%20...%5C%5C%20x_%7Bn%7D%20%5Cend%7Bbmatrix%7D%20%3D%20x_%7B1%7D%5Cbegin%7Bbmatrix%7D%20c_%7B1%7D%5C%5C%20c_%7B2%7D%5C%5C%20...%5C%5C%20c_%7B3%7D%20%5Cend%7Bbmatrix%7D&plus;%20...%20&plus;%20x_%7Bn%7D%5Cbegin%7Bbmatrix%7D%20c_%7B4%7D%5C%5C%20c_%7B5%7D%5C%5C%20...%5C%5C%20c_%7B6%7D%20%5Cend%7Bbmatrix%7D)
+
+then the homogeneous equation of the matrix is a linear combination of these column vectors, therefore:
+
+![equation](https://latex.codecogs.com/gif.latex?N%20%5C%28%20A%20%5C%29%20%3D%20Span%20%5C%28%20%5Cbegin%7Bbmatrix%7D%20c_%7B1%7D%5C%5C%20c_%7B2%7D%5C%5C%20...%5C%5C%20c_%7B3%7D%20%5Cend%7Bbmatrix%7D%2C%5Cbegin%7Bbmatrix%7D%20c_%7B4%7D%5C%5C%20c_%7B5%7D%5C%5C%20...%5C%5C%20c_%7B6%7D%20%5Cend%7Bbmatrix%7D%20%5C%29)
+
 
 <br>
 <br>
