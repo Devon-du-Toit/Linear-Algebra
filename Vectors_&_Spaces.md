@@ -350,9 +350,13 @@ which may be described as:
 <br>
 <br>
 
-__Nullity (Dimension of a subspace)__: the number of elements within a basis contained in a subspace.
+__Nullity (Dimension of a subspace) of a Nullspace__: the number of elements within a basis contained in a subspace.
 
 null(A) = dim(A) = number of free varaibles within matrix __A__.
 
 <br>
 <br>
+
+__Linear Independence of a Columnspace__: all free variable columns of a matrix are linear combinations of the pivot columns. Therefore the columns space of a matrix does not neccessarly equal its basis set. The basis of a columnspace is its pivot columns. Given matrix __A__, its dimension (or rank) is given by:
+
+rank(__A__) = number of linear independent column vectors (pivot columns)
