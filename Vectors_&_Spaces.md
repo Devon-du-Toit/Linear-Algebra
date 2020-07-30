@@ -269,6 +269,15 @@ above, x<sub>n</sub> is a free variable. This implies that x<sub>n</sub> has no 
 <br>
 <br>
 
+__Complete Solution of a matrix__
+
+If matrix has free variables, the complete solution of a matrix may be expressed as:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5C%20x_%7B2%7D%5C%5C%20...%5C%5C%20x_%7Bn%7D%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20c_%7B1%7D%5C%5C%20c_%7B2%7D%5C%5C%20...%5C%5C%20c_%7B3%7D%20%5Cend%7Bbmatrix%7D&plus;%20x_%7Bfree_%7B1%7D%7D%20%5Cbegin%7Bbmatrix%7D%20c_%7B4%7D%5C%5C%20c_%7B5%7D%5C%5C%20...%5C%5C%20c_%7B6%7D%20%5Cend%7Bbmatrix%7D%20&plus;x_%7Bfree_%7B2%7D%7D%20%5Cbegin%7Bbmatrix%7D%20c_%7B4%7D%5C%5C%20c_%7B5%7D%5C%5C%20...%5C%5C%20c_%7B6%7D%20%5Cend%7Bbmatrix%7D%20&plus;%20...%20&plus;x_%7Bfree_%7Bn%7D%7D%20%5Cbegin%7Bbmatrix%7D%20c_%7B4%7D%5C%5C%20c_%7B5%7D%5C%5C%20...%5C%5C%20c_%7B6%7D%20%5Cend%7Bbmatrix%7D)
+
+<br>
+<br>
+
 __Solutionless system__: if an echelon matrix delivers a zero row with an answer:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%201%26%200%26%20...%26%200%26%20%7C%20%26y_%7B1%7D%5C%5C%200%26%201%26%20...%26%200%26%20%7C%20%26y_%7B2%7D%5C%5C%20...%26%20...%26%20...%26%20...%26%20%7C%20%26...%5C%5C%200%26%200%26%20...%26%200%26%20%7C%20%26c_%7B%7D%20%5Cend%7Bbmatrix%7D%20%5C%20for%20%5C%20a%20%5C%20non-zero%20%5C%20constant%2C%20%5C%20c.)
