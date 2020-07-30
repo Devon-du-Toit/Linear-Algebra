@@ -251,3 +251,7 @@ we may represent this as a matrix:
 to achive a reduce row-echelon form, we need to have a matrix of the form:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%201%26%200%20%26%200%20...%26%20%5Cleft.%5Cbegin%7Bmatrix%7D%200%20%5Cend%7Bmatrix%7D%5Cright%7C%20%26%20y_%7B1%7D%5C%5C%200%26%201%20%26%200...%20%26%20%5Cleft.%5Cbegin%7Bmatrix%7D%200%20%5Cend%7Bmatrix%7D%5Cright%7C%20%26%20y_%7B2%7D%5C%5C%200%26%200%20%26%201...%20%26%20%5Cleft.%5Cbegin%7Bmatrix%7D%200%5Cend%7Bmatrix%7D%5Cright%7C%20%26y_%7B3%7D%5C%5C%20...%20%26%20...%20%26...%20%26...%20%26...%5C%5C%200%20%26%200%20%26%200...%20%26%20%5Cleft.%5Cbegin%7Bmatrix%7D%201%5Cend%7Bmatrix%7D%5Cright%7C%20%26%20y_%7Bn%7D%20%5Cend%7Bbmatrix%7D)
+
+where each diagonal __1__ is a __pivot variable__ with solution:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20x_%7B1%7D%3Dy_%7B1%7D%20%5C%5Cx_%7B2%7D%3Dy_%7B2%7D%20%5C%5C...%20%5C%5Cx_%7Bn%7D%3Dy_%7Bn%7D%20%5Cend%7Balign*%7D)
