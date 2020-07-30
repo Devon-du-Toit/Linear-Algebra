@@ -296,5 +296,5 @@ which gives a new vector as solution.
 <br>
 <br>
 
-__Homogeneous equation__: a matrix __A__ vector x&#8407; product is homogeneous if __A__ x&#8407; = __0&#8407;__.
+__Homogeneous equation__: a matrix __A__ vector x&#8407; product is homogeneous if __A__ x&#8407; = __o&#8407;__.
 
