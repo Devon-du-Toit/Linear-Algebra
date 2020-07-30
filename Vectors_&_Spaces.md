@@ -330,3 +330,16 @@ then the homogeneous equation of the matrix is a linear combination of these col
 <br>
 
 __Linear Independent Nullspace__: a nullspace is linearly independent if the only vector that satisfies  __A__ x&#8407; = __o&#8407;__ is o&#8407;.
+
+<br>
+<br>
+
+__Column Space__: the span (set of linear combinations) of the column vectors of a matrix:
+
+if matrix __A__ is given by the column vectors:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20%5Coverrightarrow%7Bv%7D_%7B1%7D%20%26%5Coverrightarrow%7Bv%7D_%7B2%7D%20%26%20...%20%26%20%5Coverrightarrow%7Bv%7D_%7Bn%7D%20%5Cend%7Bbmatrix%7D)
+
+then the column space is:
+
+![equation](https://latex.codecogs.com/gif.latex?C%20%5C%28%20A%5C%29%20%3D%20Span%20%5C%28%20%5Coverrightarrow%7Bv%7D_%7B1%7D%2C%5Coverrightarrow%7Bv%7D_%7B2%7D%2C%20...%2C%20%5Coverrightarrow%7Bv%7D_%7Bn%7D%20%5C%29)
