@@ -104,12 +104,6 @@ __Basis__: a set *S* of vectors in a vector space *V* is called a basis, if the 
 <br>
 <br>
 
-__Nullity (Dimension of a subspace)__: the number of elements within a basis contained in a subspace.
-
-<br>
-<br>
-
-
 __Dot Product__:  scalar sum of the products of the corresponding entries of the vectors.
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Ba%7D%20%5Ccdot%20%5Coverrightarrow%7Bb%7D%20%3D%20a_%7B1%7Db_%7B1%7D&plus;a_%7B2%7Db_%7B2%7D&plus;...&plus;a_%7Bn%7Db_%7Bn%7D)
@@ -352,3 +346,13 @@ then the column space is:
 which may be described as:
 
 ![equation](https://latex.codecogs.com/gif.latex?C%5C%28%20A%20%5C%29%20%3D%20%5C%7B%20A%20%5Coverrightarrow%7Bx%7D%20%3D%20%5Coverrightarrow%7Bb%7D%20%7C%20%5Coverrightarrow%7Bb%7D%20%5C%26%20%5Coverrightarrow%7Bx%7D%20%5C%20%5Cepsilon%20%5C%20%5Cmathbb%7BR%7D%5E%7Bn%7D%20%5C%7D)
+
+<br>
+<br>
+
+__Nullity (Dimension of a subspace)__: the number of elements within a basis contained in a subspace.
+
+null(A) = dim(A) = number of free varaibles within matrix __A__.
+
+<br>
+<br>
