@@ -263,4 +263,18 @@ to achive a reduce row-echelon form, we need to have a matrix of the form:
 
 __Free varaible__: if a reduced row echeon form matrix has any values except 0 located in any other place than the diagonal, that varaible is a free variable.
 
-![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%201%26%200%26%20...%26%20x_%7Bn%7D%26%20%7C%20%26y_%7B1%7D%5C%5C%200%26%201%26%20...%26%200%26%20%7C%20%26y_%7B2%7D%5C%5C%20...%26%20...%26%20...%26%20...%26%20%7C%20%26...%5C%5C%200%26%200%26%20...%26%201%26%20%7C%20%26y_%7Bn%7D%20%5Cend%7Bbmatrix%7D)
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%201%26%200%26%20...%26%20x_%7Bn%7D%26%20%7C%20%26y_%7B1%7D%5C%5C%200%26%201%26%20...%26%200%26%20%7C%20%26y_%7B2%7D%5C%5C%20...%26%20...%26%20...%26%20...%26%20%7C%20%26...%5C%5C%200%26%200%26%20...%26%200%26%20%7C%20%26y_%7Bn%7D%20%5Cend%7Bbmatrix%7D)
+
+above, x<sub>n</sub> is a free variable.
+
+<br>
+<br>
+
+__Solutionless system__: if an echelon matrix delivers a zero row with an answer:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%201%26%200%26%20...%26%200%26%20%7C%20%26y_%7B1%7D%5C%5C%200%26%201%26%20...%26%200%26%20%7C%20%26y_%7B2%7D%5C%5C%20...%26%20...%26%20...%26%20...%26%20%7C%20%26...%5C%5C%200%26%200%26%20...%26%200%26%20%7C%20%26c_%7B%7D%20%5Cend%7Bbmatrix%7D%20%5C%20for%20%5C%20a%20%5C%20non-zero%20%5C%20constant%2C%20%5C%20c.)
+
+the system has no solution.
+
+<br>
+<br>
