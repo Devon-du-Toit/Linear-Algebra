@@ -242,3 +242,8 @@ __Lagrange's Formula__: Also known as the vector triple product:
 
 __Row echelon form__: given a system of equations:
 
+![equations](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20x_%7B1%7D&plus;2x_%7B2%7D&plus;x_%7B3%7D&plus;x_%7B4%7D%7B%7D%26%3D7%20%5C%5C%20x_%7B1%7D&plus;2x_%7B2%7D&plus;2x_%7B3%7D-x_%7B4%7D%7B%7D%26%3D12%20%5C%5C%202x_%7B1%7D&plus;4x_%7B2%7D&plus;6x_%7B4%7D%7B%7D%26%3D4%20%5Cend%7Balign*%7D)
+
+we may represent this as a matrix:
+
+
