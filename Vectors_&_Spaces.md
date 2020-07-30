@@ -287,6 +287,14 @@ the matrix may be multiplied by a vector __x&#8407;__:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5C%20x_%7B2%7D%5C%5C%20...%5C%5C%20x_%7Bn%7D%20%5Cend%7Bbmatrix%7D)
 
-if the number of columns (n) of the matrix __A__ correspond to the number of elements within the vector __x&#8407;__ such that __A__ x&#8407; =:
+if the number of columns (n) of the matrix __A__ correspond to the number of elements within the vector __x&#8407;__, <br> such that __A__ x&#8407; =
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20a_%7B11%7Dx_%7B1%7D&plus;%20a_%7B12%7Dx_%7B2%7D&plus;%20...&plus;%20a_%7B1n%7Dx_%7Bn%7D%5C%5C%20a_%7B21%7Dx_%7B1%7D&plus;%20a_%7B22%7Dx_%7B2%7D&plus;%20...&plus;%20a_%7B2n%7Dx_%7Bn%7D%5C%5C%20...%5C%5C%20a_%7Bm1%7Dx_%7B1%7D&plus;%20a_%7Bm2%7Dx_%7B2%7D&plus;%20...&plus;%20a_%7Bmn%7Dx_%7Bn%7D%7B%7D%20%5Cend%7Bbmatrix%7D)
+
+which gives a new vector as solution.
+
+<br>
+<br>
+
+__Homogeneous equation__: a matrix __A__ vector x&#8407; product is homogeneous if __A__ x&#8407; = __0&#8407;__.
+
