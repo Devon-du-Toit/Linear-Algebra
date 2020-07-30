@@ -320,3 +320,4 @@ then the homogeneous equation of the matrix is a linear combination of these col
 <br>
 <br>
 
+__Linear Independent Nullspace__: a nullspace is linearly independent if the only vector that satisfies  __A__ x&#8407; = __o&#8407;__ is o&#8407;.
