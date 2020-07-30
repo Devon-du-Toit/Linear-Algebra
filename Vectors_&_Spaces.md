@@ -343,3 +343,7 @@ if matrix __A__ is given by the column vectors:
 then the column space is:
 
 ![equation](https://latex.codecogs.com/gif.latex?C%20%5C%28%20A%5C%29%20%3D%20Span%20%5C%28%20%5Coverrightarrow%7Bv%7D_%7B1%7D%2C%5Coverrightarrow%7Bv%7D_%7B2%7D%2C%20...%2C%20%5Coverrightarrow%7Bv%7D_%7Bn%7D%20%5C%29)
+
+which may be described as:
+
+![equation](https://latex.codecogs.com/gif.latex?C%5C%28%20A%20%5C%29%20%3D%20%5C%7B%20A%20%5Coverrightarrow%7Bx%7D%20%3D%20%5Coverrightarrow%7Bb%7D%20%7C%20%5Coverrightarrow%7Bb%7D%20%5C%26%20%5Coverrightarrow%7Bx%7D%20%5C%20%5Cepsilon%20%5C%20%5Cmathbb%7BR%7D%5E%7Bn%7D%20%5C%7D)
