@@ -287,4 +287,4 @@ the matrix may be multiplied by a vector __x&#8407;__:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5C%20x_%7B2%7D%5C%5C%20...%5C%5C%20x_%7Bn%7D%20%5Cend%7Bbmatrix%7D)
 
-if the number of columns (n) of the matrix __A__ correspond to the number of rows of the matrix __x&#8407;__.
+if the number of columns (n) of the matrix __A__ correspond to the number of elements within the vector __x&#8407;__.
