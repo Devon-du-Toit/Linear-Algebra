@@ -265,7 +265,7 @@ __Free varaible__: if a reduced row echeon form matrix has any values except 0 l
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%201%26%200%26%20...%26%20x_%7Bn%7D%26%20%7C%20%26y_%7B1%7D%5C%5C%200%26%201%26%20...%26%200%26%20%7C%20%26y_%7B2%7D%5C%5C%20...%26%20...%26%20...%26%20...%26%20%7C%20%26...%5C%5C%200%26%200%26%20...%26%200%26%20%7C%20%26y_%7Bn%7D%20%5Cend%7Bbmatrix%7D)
 
-above, x<sub>n</sub> is a free variable.
+above, x<sub>n</sub> is a free variable. This implies that x<sub>n</sub> has no unique solution.
 
 <br>
 <br>
