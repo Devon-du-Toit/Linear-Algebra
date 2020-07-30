@@ -298,3 +298,7 @@ which gives a new vector as solution.
 
 __Homogeneous equation__: a matrix __A__ vector x&#8407; product is homogeneous if __A__ x&#8407; = __o&#8407;__.
 
+<br>
+<br>
+
+__Null Space__: given a matrix __A__ the null space of __A__ is the set of all vectors which solves  __A__ v&#8407; = __o&#8407;__.
