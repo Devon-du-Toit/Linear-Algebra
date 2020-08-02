@@ -1,4 +1,4 @@
-<h1>Vectors and Spaces Example</h1>
+<h1>Vectors and Spaces Examples</h1>
 
 __1. Given the equations:__
 
