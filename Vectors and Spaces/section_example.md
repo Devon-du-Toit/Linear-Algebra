@@ -14,7 +14,7 @@ Transforming the equation into a matrix yields:
 
 which in reduced row echelon form is:
 
-![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%201%20%26%200%26%203%26%202%20%26%20%7C0%5C%5C%200%26%201%26%202%26%201%26%20%7C0%5C%5C%200%26%200%26%200%26%200%26%20%7C0%20%5Cend%7Bbmatrix%7D)
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%201%260%263%262%26%7C0%5C%5C%200%261%26-2%26-1%26%7C0%5C%5C%200%260%260%260%26%7C0%20%5Cend%7Bbmatrix%7D)
 
 The complete solution to these equations are:
 
