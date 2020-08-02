@@ -10,7 +10,7 @@ __Solution__
 
 Transforming the equation into a matrix yields:
 
-![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%201%20%26%201%26%201%26%201%20%26%20%7C0%5C%5C%202%26%201%26%204%26%203%26%20%7C0%5C%5C%203%26%204%26%201%26%202%26%20%7C0%20%5Cend%7Bbmatrix%7D
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%201%20%26%201%26%201%26%201%20%26%20%7C0%5C%5C%202%26%201%26%204%26%203%26%20%7C0%5C%5C%203%26%204%26%201%26%202%26%20%7C0%20%5Cend%7Bbmatrix%7D)
 
 which in reduced row echelon form is:
 
