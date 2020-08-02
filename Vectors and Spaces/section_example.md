@@ -1,10 +1,10 @@
 <h1>Vectors and Spaces Example</h1>
 
-Given the equations:
+__1. Given the equations:__
 
 ![equations](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20x_%7B1%7D&plus;x_%7B2%7D&plus;x_%7B3%7D&plus;x_%7B4%7D%3D0%5C%5C%202x_%7B1%7D&plus;x_%7B2%7D&plus;4x_%7B3%7D&plus;3x_%7B4%7D%3D0%5C%5C%203x_%7B1%7D&plus;4x_%7B2%7D&plus;x_%7B3%7D&plus;2x_%7B4%7D%3D0%20%5Cend%7Balign*%7D)
 
-graph all possible solutions.
+find all possible solutions.
 
 __Solution__
 
