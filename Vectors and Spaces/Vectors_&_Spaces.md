@@ -51,6 +51,20 @@ __Linear Combination__: the sum of the scalar multiples of the vectors within a 
 
 __Span__: the set of all linear combinations of a set of vectors. 
 
+If given the span of two vectors:
+
+![equation](https://latex.codecogs.com/gif.latex?Span%5C%7B%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5C...%20%5C%5Cx_%7Bn%7D%20%5Cend%7Bbmatrix%7D%2C%20%5Cbegin%7Bbmatrix%7D%20y_%7B1%7D%5C%5C...%20%5C%5Cy_%7Bn%7D%20%5Cend%7Bbmatrix%7D%20%5C%7D)
+
+This will represent a plane in R<sup>n</sup>.
+
+If given a span of 1 vector:
+
+![equation](https://latex.codecogs.com/gif.latex?Span%5C%7B%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5C...%20%5C%5Cx_%7Bn%7D%20%5Cend%7Bbmatrix%7D%20%5C%7D)
+
+This will represent a line in R<sup>n</sup>.
+
+
+
 <br>
 <br>
 
@@ -273,6 +287,7 @@ __Complete Solution of a matrix__
 If matrix has free variables, the complete solution of a matrix may be expressed as:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5C%20x_%7B2%7D%5C%5C%20...%5C%5C%20x_%7Bn%7D%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20c_%7B1%7D%5C%5C%20c_%7B2%7D%5C%5C%20...%5C%5C%20c_%7B3%7D%20%5Cend%7Bbmatrix%7D&plus;%20x_%7Bfree_%7B1%7D%7D%20%5Cbegin%7Bbmatrix%7D%20c_%7B4%7D%5C%5C%20c_%7B5%7D%5C%5C%20...%5C%5C%20c_%7B6%7D%20%5Cend%7Bbmatrix%7D%20&plus;x_%7Bfree_%7B2%7D%7D%20%5Cbegin%7Bbmatrix%7D%20c_%7B4%7D%5C%5C%20c_%7B5%7D%5C%5C%20...%5C%5C%20c_%7B6%7D%20%5Cend%7Bbmatrix%7D%20&plus;%20...%20&plus;x_%7Bfree_%7Bn%7D%7D%20%5Cbegin%7Bbmatrix%7D%20c_%7B4%7D%5C%5C%20c_%7B5%7D%5C%5C%20...%5C%5C%20c_%7B6%7D%20%5Cend%7Bbmatrix%7D)
+
 
 <br>
 <br>
