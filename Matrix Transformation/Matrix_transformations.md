@@ -114,6 +114,10 @@ If T = B(x&#8407;) and S = A(x&#8407;), then:
 
 ![equation](https://latex.codecogs.com/gif.latex?T%5Ccirc%20S%20%3D%20BA%5Coverrightarrow%7Bx%7D)
 
+Notice that if we have 3 transformations: S=B(x&#8407;), T=A(x&#8407;) and H=C(x&#8407;) then:
+
+![equation](https://latex.codecogs.com/gif.latex?S%5Ccirc%20T%20%5Ccirc%20H%20%3D%20BAC%5Coverrightarrow%7Bx%7D)
+
 <br>
 <br>
 
