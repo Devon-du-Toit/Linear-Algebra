@@ -71,5 +71,15 @@ __Kernel__: the set of vectors in the domain of the mapping which are mapped to 
 
 *ker( L ) = { v ∈ V ∣ L ( v ) = o&#8407; }*
 
+<br>
+<br>
+
+__Scalling and Reflecting__: any desire transformation may be constructed by multiplying the changes for each variable with the identity matrix:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20Flip%20%5C%20about%20%5C%20y-axis%3A%20%5C%20x%20%3D%20-x%20%5C%5C%20Stretch%20%5C%20in%20%5C%20y-direction%20%5C%20with%20%5C%20factor%20%5C%202%3A%20y%3D2y%5C%5C%20This%20%5C%20equates%20%5C%20%5Cbegin%7Bbmatrix%7D%201%260%5C%5C%200%261%20%5Cend%7Bbmatrix%7D%20%5Cbegin%7Bbmatrix%7D%20-1%5C%5C2%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20-1%260%5C%5C%200%262%20%5Cend%7Bbmatrix%7D%20%3D%20T%20%5Cend%7Balign*%7D)
+
+<br>
+<br>
+
 
 
