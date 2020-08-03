@@ -110,4 +110,7 @@ __Composition of Linear Transformations__: Considering two Transformations __T__
 
 ![equation](https://latex.codecogs.com/gif.latex?T%5Ccirc%20S%3A%20X%20%5Cmapsto%20Z%20%3D%20T%5C%28S%5C%28%20%5Coverrightarrow%7Bx%7D%5C%29%20%5C%29)
 
+If T = B(x&#8407;) and S = A(x&#8407;), then:
+
+![equation](https://latex.codecogs.com/gif.latex?T%5Ccirc%20S%20%3D%20BA%5Coverrightarrow%7Bx%7D)
 
