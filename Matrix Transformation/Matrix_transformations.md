@@ -35,3 +35,16 @@ Multiplying any vector with the identity matrix gives the vector as result:
 <br>
 
 __Standard Basis for R<sup>n</sup>__: The set of column vectors of an Identy matrix. 
+
+<br>
+<br>
+
+__Image of a subsetunder a transformation__: To find the transformation of a shape, the image produced will merely be the superposition of transformations of it's vectors:
+
+![TRANS_1](https://user-images.githubusercontent.com/68278907/89207381-e9b7ed80-d5ba-11ea-9fd5-7f0fdbe88c62.png)
+
+Applying a transformation to the triangle above:
+
+![TRANS_2](https://user-images.githubusercontent.com/68278907/89207289-cd1bb580-d5ba-11ea-9372-ce9289d99277.png)
+
+
