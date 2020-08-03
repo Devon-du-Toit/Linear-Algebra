@@ -117,11 +117,19 @@ If T = B(x&#8407;) and S = A(x&#8407;), then:
 <br>
 <br>
 
-__Product of two Matrices__: Consider two matrices __A__ & __B__. The product of these two are:
+__Product of two Matrices__: Consider two matrices __A__ (m x n) & __B__ (n x k). The product of these two are:
 
 ![equation](https://latex.codecogs.com/gif.latex?BA%20%3D%20%5Cbegin%7Bbmatrix%7D%20B%5Coverrightarrow%7Ba%7D_%7B1%7D%20%26%20B%5Coverrightarrow%7Ba%7D_%7B2%7D%20%26%20...%20%26%20B%5Coverrightarrow%7Ba%7D_%7Bn%7D%20%5Cend%7Bbmatrix%7D)
 
 for a&#8407;<sub>n</sub> the column vectors of __A__.
+
+Thus, if:
+
+![equations](https://latex.codecogs.com/gif.latex?B%20%3D%20%5Cbegin%7Bbmatrix%7D%20b_%7B1%7D%20%26b_%7B2%7D%20%5C%5C%20b_%7B3%7D%26%20b_%7B4%7D%20%5Cend%7Bbmatrix%7D%20A%20%3D%20%5Cbegin%7Bbmatrix%7D%20a_%7B1%7D%20%26a_%7B2%7D%20%26a_%7B3%7D%20%5C%5C%20a_%7B4%7D%26%20a_%7B5%7D%20%26%20a_%7B5%7D%20%5Cend%7Bbmatrix%7D)
+
+then:
+
+![equation](https://latex.codecogs.com/gif.latex?BA%20%3D%20%5Cbegin%7Bbmatrix%7D%20%5Cbegin%7Bbmatrix%7D%20b_%7B1%7D%20%26b_%7B2%7D%20%5C%5C%20b_%7B3%7D%26%20b_%7B4%7D%20%5Cend%7Bbmatrix%7D%5Cbegin%7Bbmatrix%7D%20a_%7B1%7D%5C%5C%20a_%7B4%7D%20%5Cend%7Bbmatrix%7D%26%20%5Cbegin%7Bbmatrix%7D%20b_%7B1%7D%20%26b_%7B2%7D%20%5C%5C%20b_%7B3%7D%26%20b_%7B4%7D%20%5Cend%7Bbmatrix%7D%5Cbegin%7Bbmatrix%7D%20a_%7B2%7D%5C%5C%20a_%7B5%7D%20%5Cend%7Bbmatrix%7D%20%26%20%5Cbegin%7Bbmatrix%7D%20b_%7B1%7D%20%26b_%7B2%7D%20%5C%5C%20b_%7B3%7D%26%20b_%7B4%7D%20%5Cend%7Bbmatrix%7D%5Cbegin%7Bbmatrix%7D%20a_%7B3%7D%5C%5C%20a_%7B6%7D%20%5Cend%7Bbmatrix%7D%20%5Cend%7Bbmatrix%7D)
 
 <br>
 <br>
