@@ -54,5 +54,18 @@ Thus:
 <br>
 <br>
 
+__Pre-image__: given a Transformation T : X → Y and a subset B ⊆ Y, the set T<sup>−1</sup>(B) = {x ∈ X : T(x) ∈ B}. Thus, what subset of the domain maps onto the subset of the co-domain under a specific transformation:
+
+![equation](https://latex.codecogs.com/gif.latex?T%20%3D%20%5Cbegin%7Bbmatrix%7D%20c_%7B1%7D%20%26c_%7B2%7D%20%5C%5C%20c_%7B3%7D%26c_%7B4%7D%20%5Cend%7Bbmatrix%7D%2C%20x%20%3D%20%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5C%20x_%7B2%7D%20%5Cend%7Bbmatrix%7D%2C%20S%3D%5Cbegin%7Bbmatrix%7D%20c_%7B5%7D%5C%5C%20c_%7B6%7D%20%5Cend%7Bbmatrix%7D)
+
+Given T and S,(given all c_{1}...c_{n}) find x:
+
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20c_%7B1%7D%20%26c_%7B2%7D%20%5C%5C%20c_%7B3%7D%26c_%7B4%7D%20%5Cend%7Bbmatrix%7D%20%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5C%20x_%7B2%7D%20%5Cend%7Bbmatrix%7D%20%3D%5Cbegin%7Bbmatrix%7D%20c_%7B5%7D%5C%5C%20c_%7B6%7D%20%5Cend%7Bbmatrix%7D)
+
+
+<br>
+<br>
+
 
 
