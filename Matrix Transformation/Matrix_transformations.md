@@ -67,5 +67,9 @@ Given T and S,(given all c_{1}...c_{n}) find x:
 <br>
 <br>
 
+__Kernel__: the set of vectors in the domain of the mapping which are mapped to the zero vector.That is, given a linear map L : V → W between two vector spaces V and W, the kernel of L is the set of all elements v of V for which L(v) = 0&#8407;  or more symbolically:
+
+*ker( L ) = { v ∈ V ∣ L ( v ) = o&#8407; }*
+
 
 
