@@ -114,3 +114,18 @@ If T = B(x&#8407;) and S = A(x&#8407;), then:
 
 ![equation](https://latex.codecogs.com/gif.latex?T%5Ccirc%20S%20%3D%20BA%5Coverrightarrow%7Bx%7D)
 
+<br>
+<br>
+
+__Product of two Matrices__: Consider two matrices __A__ & __B__. The product of these two are:
+
+![equation](https://latex.codecogs.com/gif.latex?BA%20%3D%20%5Cbegin%7Bbmatrix%7D%20B%5Coverrightarrow%7Ba%7D_%7B1%7D%20%26%20B%5Coverrightarrow%7Ba%7D_%7B2%7D%20%26%20...%20%26%20B%5Coverrightarrow%7Ba%7D_%7Bn%7D%20%5Cend%7Bbmatrix%7D)
+
+for a&#8407;<sub>n</sub> the column vectors of __A__.
+
+<br>
+<br>
+
+
+
+
