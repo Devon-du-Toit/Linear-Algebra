@@ -96,3 +96,7 @@ __Rotation Transformation in R<sup>3</sup> about the x-axis__:
 
 <br>
 <br>
+
+__Projection__: some vector on line L (span{v&#8407;}) where x&#8407; - Proj<sub>L</sub>(x&#8407;) is orthogonal to L.
+
+![equation](https://latex.codecogs.com/gif.latex?Proj_%7BL%7D%5C%28%5Coverrightarrow%7Bx%7D%20%5C%29%20%3D%20%5Cfrac%7B%5Coverrightarrow%7Bx%7D%5Ccdot%20%5Coverrightarrow%7Bv%7D%7D%7B%5Coverrightarrow%7Bv%7D%5Ccdot%20%5Coverrightarrow%7Bv%7D%7D%5Coverrightarrow%7Bv%7D)
