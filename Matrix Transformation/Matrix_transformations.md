@@ -138,6 +138,13 @@ then:
 <br>
 <br>
 
+__Properties of matrix products__:
 
+ABC = (AB)C = A(BC)
 
+ABC ≠ ACB ≠ BCA ≠ CBA etc.
 
+A(B+C) = AB+AC
+
+<br>
+<br>
