@@ -74,12 +74,14 @@ __Kernel__: the set of vectors in the domain of the mapping which are mapped to 
 <br>
 <br>
 
-__Scalling and Reflecting__: any desire transformation may be constructed by multiplying the changes for each variable with the identity matrix:
+__Scalling and Reflecting Transformations__: any desired transformation may be constructed by multiplying the changes for each variable with the identity matrix:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20Flip%20%5C%20about%20%5C%20y-axis%3A%20%5C%20x%20%3D%20-x%20%5C%5C%20Stretch%20%5C%20in%20%5C%20y-direction%20%5C%20with%20%5C%20factor%20%5C%202%3A%20y%3D2y%5C%5C%20This%20%5C%20equates%20%5C%20%5Cbegin%7Bbmatrix%7D%201%260%5C%5C%200%261%20%5Cend%7Bbmatrix%7D%20%5Cbegin%7Bbmatrix%7D%20-1%5C%5C2%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20-1%260%5C%5C%200%262%20%5Cend%7Bbmatrix%7D%20%3D%20T%20%5Cend%7Balign*%7D)
 
 <br>
 <br>
 
+__Rotation Transformations in R<sup>2</sup>__: a Transformation rotating about the origin with angle theta:
 
+![equation](https://latex.codecogs.com/gif.latex?T_%7Brotation%7D%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5Cx_%7B2%7D%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20cos%5CTheta%20%26%20-%20sin%5CTheta%20%5C%5C%20sin%5CTheta%20%26%20cos%5CTheta%20%5Cend%7Bbmatrix%7D)
 
