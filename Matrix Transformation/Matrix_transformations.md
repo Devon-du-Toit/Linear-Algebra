@@ -83,5 +83,16 @@ __Scalling and Reflecting Transformations__: any desired transformation may be c
 
 __Rotation Transformations in R<sup>2</sup>__: a Transformation rotating about the origin with angle theta:
 
-![equation](https://latex.codecogs.com/gif.latex?T_%7Brotation%7D%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5Cx_%7B2%7D%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20cos%5CTheta%20%26%20-%20sin%5CTheta%20%5C%5C%20sin%5CTheta%20%26%20cos%5CTheta%20%5Cend%7Bbmatrix%7D)
+![equation](https://latex.codecogs.com/gif.latex?T_%7Brotation%7D%20%3D%20T%5Cbegin%7Bbmatrix%7D%20cos%5CTheta%20%26%20-%20sin%5CTheta%20%5C%5C%20sin%5CTheta%20%26%20cos%5CTheta%20%5Cend%7Bbmatrix%7D)
 
+<br>
+<br>
+
+__Rotation Transformation in R<sup>3</sup> about the x-axis__: 
+
+![ROT_1](https://user-images.githubusercontent.com/68278907/89219503-2cd08b80-d5d0-11ea-9594-c2612e8fa863.png)
+
+![equation](https://latex.codecogs.com/gif.latex?T_%7Brotation_%7BX%7D%7D%20%3D%20T%5Cbegin%7Bbmatrix%7D%201%20%26%200%20%26%200%5C%5C%200%26%20cos%5CTheta%20%26%20-%20sin%5CTheta%20%5C%5C%200%20%26%20sin%5CTheta%20%26%20cos%5CTheta%20%5Cend%7Bbmatrix%7D)
+
+<br>
+<br>
