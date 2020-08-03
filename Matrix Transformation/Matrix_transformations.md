@@ -102,3 +102,12 @@ __Projection__: some vector on line L (span{v&#8407;}) where x&#8407; - Proj<sub
 ![proj](https://user-images.githubusercontent.com/68278907/89222412-4a542400-d5d5-11ea-96d1-c350e8697f9d.png)
 
 ![equation](https://latex.codecogs.com/gif.latex?Proj_%7BL%7D%5C%28%5Coverrightarrow%7Bx%7D%20%5C%29%20%3D%20%5Cfrac%7B%5Coverrightarrow%7Bx%7D%5Ccdot%20%5Coverrightarrow%7Bv%7D%7D%7B%5Coverrightarrow%7Bv%7D%5Ccdot%20%5Coverrightarrow%7Bv%7D%7D%5Coverrightarrow%7Bv%7D)
+
+<br>
+<br>
+
+__Composition of Linear Transformations__: Considering two Transformations __T__ & __S__, the composition of __T__ with __S__:
+
+![equation](https://latex.codecogs.com/gif.latex?T%5Ccirc%20S%3A%20X%20%5Cmapsto%20Z%20%3D%20T%5C%28S%5C%28%20%5Coverrightarrow%7Bx%7D%5C%29%20%5C%29)
+
+
