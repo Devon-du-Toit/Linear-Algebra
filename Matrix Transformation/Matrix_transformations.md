@@ -49,5 +49,10 @@ Applying a transformation to the triangle above:
 
 Thus:
 
-![equations](https://latex.codecogs.com/gif.latex?T%5C%28P%20%5C%29%20%3D%20T%5C%28P_%7B1%7D%5C%29&plus;T%5C%28P_%7B2%7D%5C%29&plus;T%5C%28P_%7B3%7D%5C%29)
+![equations](https://latex.codecogs.com/gif.latex?T%5C%28Shape%20%5C%29%20%3D%20T%5C%28Point_%7B1%7D%5C%29&plus;T%5C%28Point_%7B2%7D%5C%29&plus;...&plus;T%5C%28P_%7Bn%7D%5C%29)
+
+<br>
+<br>
+
+
 
