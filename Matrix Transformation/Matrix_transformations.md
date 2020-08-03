@@ -47,4 +47,7 @@ Applying a transformation to the triangle above:
 
 ![TRANS_2](https://user-images.githubusercontent.com/68278907/89207289-cd1bb580-d5ba-11ea-9372-ce9289d99277.png)
 
+Thus:
+
+![equations](https://latex.codecogs.com/gif.latex?T%5C%28P%20%5C%29%20%3D%20T%5C%28P_%7B1%7D%5C%29&plus;T%5C%28P_%7B2%7D%5C%29&plus;T%5C%28P_%7B3%7D%5C%29)
 
