@@ -180,9 +180,22 @@ __Surjective / "onto"__: a function __f__ is surjective/ maps onto if:
 
 ![equation](https://latex.codecogs.com/gif.latex?for%20%5C%20every%20%5C%20y%20%5C%20%5Cepsilon%20%5C%20Y%20%5C%20%5Cexists%20%5C%20at%20%5C%20least%20%5C%201%20%5C%20x%20%5C%20%5Cepsilon%20%5C%20X%20%3A%20%28such%5C%20that%29%20%5C%20f%28x%29%3Dy)
 
->br>
+Alternatively, a function __f__ is surjective/ maps onto if and only if:
+
+![equation](https://latex.codecogs.com/gif.latex?for%20%5C%20a%20%5C%20matrix%20%5C%20A.%20%5C%20rref%28A%29%20%5C%20has%20%5C%20a%20%5C%20pivot%20%5C%20column%20%5C%20in%20%5C%20every%20%5C%20row%20.)
+
+
+<br>
 <br>
 
 __Injective / "one-to-one"__: the function __f__ is injective/ "one-to-one" if:
 
 ![equation](https://latex.codecogs.com/gif.latex?for%20%5C%20every%20%5C%20y%20%5C%20%5Cepsilon%20%5C%20Y%20%5C%20%5Cexists%20%5C%20at%20%5C%20most%20%5C%201%20%5C%20x%20%5C%20%5Cepsilon%20%5C%20X%20%3A%20%5C%20f%28x%29%3Dy)
+
+<br>
+<br>
+
+__Invertibility i.t.o surjectivity an injectivity__: for function __f__ to be invertible, it needs to be both surjective and injective.
+
+<br>
+<br>
