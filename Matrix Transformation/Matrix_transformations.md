@@ -176,6 +176,12 @@ which implies a unique solution to f(x)=y is necessary for __f__ to be invertibl
 <br>
 <br>
 
+__Linear Invertibility__:
+
+T<sup>-1</sup>(__a__+__b__) = T<sup>-1</sup>(__a__)+T<sup>-1</sup>(__b__)
+
+T<sup>-1</sup>(c__a__) = cT<sup>-1</sup>(__a__)
+
 __Surjective / "onto"__: a function __f__ is surjective/ maps onto if:
 
 ![equation](https://latex.codecogs.com/gif.latex?for%20%5C%20every%20%5C%20y%20%5C%20%5Cepsilon%20%5C%20Y%20%5C%20%5Cexists%20%5C%20at%20%5C%20least%20%5C%201%20%5C%20x%20%5C%20%5Cepsilon%20%5C%20X%20%3A%20%28such%5C%20that%29%20%5C%20f%28x%29%3Dy)
@@ -191,6 +197,8 @@ Alternatively, a function __f__ is surjective/ maps onto if and only if:
 __Injective / "one-to-one"__: the function __f__ is injective/ "one-to-one" if:
 
 ![equation](https://latex.codecogs.com/gif.latex?for%20%5C%20every%20%5C%20y%20%5C%20%5Cepsilon%20%5C%20Y%20%5C%20%5Cexists%20%5C%20at%20%5C%20most%20%5C%201%20%5C%20x%20%5C%20%5Cepsilon%20%5C%20X%20%3A%20%5C%20f%28x%29%3Dy)
+
+If a matrix __A__ is injective/ one-to-one, then the columns of __A__ must be linearly independent.
 
 <br>
 <br>
@@ -215,6 +223,19 @@ This will have the solutions:
 ![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7D%20%3D%20%5Coverrightarrow%7Bx%7D_%7Bp%7D&plus;%5Coverrightarrow%7Bx%7D_%7Bn%7D)
 
 where __b__ is a particular solution (column vector not related to a free variable = x<sub>p</sub>) and the rest of the equation is a nullspace vector = x<sub>n</sub>.
+
+<br>
+<br>
+
+__Invertible matrix__: A matrix may only be inverted if it is an nxn matrix with a reduced echelon form equal to the Identity matrix.
+
+To find a matrix's invers, augment it with the identity matrix and reduce it to echelon form:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20A%20%26%20%7C%20%5C%20I_%7Bn%7D%20%5Cend%7Bbmatrix%7D)
+
+which reduces to:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20rref%28A%29%20%26%20%7C%20%5C%20A%5E%7B-1%7D%20%5Cend%7Bbmatrix%7D)
 
 <br>
 <br>
