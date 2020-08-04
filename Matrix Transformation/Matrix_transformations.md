@@ -148,3 +148,13 @@ A(B+C) = AB+AC
 
 <br>
 <br>
+
+__Inverse of a function__: the function __f__ is invertible if and only if there exists a function:
+
+![equation](https://latex.codecogs.com/gif.latex?f%5E%7B-1%7D%3AY%20%5Cmapsto%20X)
+
+such that
+
+![equation](https://latex.codecogs.com/gif.latex?f%5E%7B-1%7D%5Ccirc%20f%20%3D%20I_%7Bx%7D)
+
+for I<sub>x</sub> the identity matrix over x.
