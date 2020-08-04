@@ -199,3 +199,22 @@ __Invertibility i.t.o surjectivity an injectivity__: for function __f__ to be in
 
 <br>
 <br>
+
+__Nonhomogeneous equation__: A set of linear equations for which the solutions isn't the zero vector, consider a matrix __A__ and vectors __x__ & __b__:
+
+![equation](https://latex.codecogs.com/gif.latex?A%5Coverrightarrow%7Bx%7D%3D%5Coverrightarrow%7Bb%7D)
+
+To solve this, reduce A to echelon form and augment it with __b__:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%20rref%28A%29%26%7C%20%5C%20%5Coverrightarrow%7Bb%7D%20%5Cend%7Bbmatrix%7D)
+
+This will have the solutions:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7D%20%3D%20%5Coverrightarrow%7Bb%7D%20&plus;%20a%5Coverrightarrow%7Bn%7D_%7B1%7D&plus;%20a%5Coverrightarrow%7Bn%7D_%7B2%7D&plus;...&plus;%20a%5Coverrightarrow%7Bn%7D_%7Bn%7D)
+
+![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Bx%7D%20%3D%20%5Coverrightarrow%7Bx%7D_%7Bp%7D&plus;%5Coverrightarrow%7Bx%7D_%7Bn%7D)
+
+where __b__ is a particular solution (column vector not related to a free variable = x<sub>p</sub>) and the rest of the equation is a nullspace vector = x<sub>n</sub>.
+
+<br>
+<br>
