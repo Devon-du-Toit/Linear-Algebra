@@ -239,3 +239,14 @@ which reduces to:
 
 <br>
 <br>
+
+__Determinant__: for a 2x2 matrix:
+
+![equation](https://latex.codecogs.com/gif.latex?For%20%5C%20matrix%20%5C%20A%3D%5Cbegin%7Bbmatrix%7D%20a%20%26b%20%5C%5C%20c%26d%20%5Cend%7Bbmatrix%7D%20%5C%20%2CDet%28A%29%3D%7CA%7C%3D%5Cbegin%7Bvmatrix%7D%20a%20%26%20b%20%5C%5C%20c%20%26%20d%20%5Cend%7Bvmatrix%7D%20%3D%20ad-bc)
+
+for a 3x3 matrix:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7B*align%7D%20For%20%5C%20matrix%20%5C%20A%3D%5Cbegin%7Bbmatrix%7D%20a_%7B11%7D%20%26a_%7B12%7D%20%26%20a_%7B13%7D%20%5C%5C%20a_%7B21%7D%20%26a_%7B22%7D%20%26%20a_%7B23%7D%20%5C%5C%20a_%7B31%7D%20%26a_%7B32%7D%20%26%20a_%7B33%7D%20%5Cend%7Bbmatrix%7D%20%5C%20%2CDet%28A%29%3D%5Cbegin%7Bvmatrix%7D%20a_%7B11%7D%20%26a_%7B12%7D%20%26%20a_%7B13%7D%20%5C%5C%20a_%7B21%7D%20%26a_%7B22%7D%20%26%20a_%7B23%7D%20%5C%5C%20a_%7B31%7D%20%26a_%7B32%7D%20%26%20a_%7B33%7D%20%5Cend%7Bvmatrix%7D%20%3D%20%5C%5C%20a_%7B11%7D%5Cbegin%7Bvmatrix%7D%20a_%7B22%7D%20%26%20a_%7B23%7D%20%5C%5C%20a_%7B32%7D%20%26%20a_%7B33%7D%20%5Cend%7Bvmatrix%7D%20-a_%7B21%7D%5Cbegin%7Bvmatrix%7D%20a_%7B21%7D%20%26%20a_%7B23%7D%20%5C%5C%20a_%7B31%7D%20%26%20a_%7B33%7D%20%5Cend%7Bvmatrix%7D%20&plus;a_%7B13%7D%5Cbegin%7Bvmatrix%7D%20a_%7B21%7D%20%26%20a_%7B22%7D%20%5C%5C%20a_%7B31%7D%20%26%20a_%7B32%7D%20%5Cend%7Bvmatrix%7D%20%5Cend%7B*align%7D)
+
+<br>
+<br>
