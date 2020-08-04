@@ -157,4 +157,32 @@ such that
 
 ![equation](https://latex.codecogs.com/gif.latex?f%5E%7B-1%7D%5Ccirc%20f%20%3D%20I_%7Bx%7D)
 
-for I<sub>x</sub> the identity matrix over x.
+for I<sub>x</sub> the identity matrix over x, and
+
+![equation](https://latex.codecogs.com/gif.latex?f%5Ccirc%20f%5E%7B-1%7D%3D%20I_%7By%7D)
+
+
+for I<sub>y</sub> the identity matrix over y.
+
+<br>
+<br>
+
+__Invertibility__: if __f__ is invertible:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cexists%20%5C%20%28there%20%5C%20exists%29%20%5C%20some%20%5C%20function%20%5C%20f%5E%7B-1%7D%20%3AY%20%5Cmapsto%20X%20%5C%20such%20%5C%20that%20%5C%20f%5E%7B-1%7D%20%5Ccirc%20f%20%3D%20I_%7Bx%7D)
+
+which implies a unique solution to f(x)=y is necessary for __f__ to be invertible.
+
+<br>
+<br>
+
+__Surjective / "onto"__: a function __f__ is surjective/ maps onto if:
+
+![equation](https://latex.codecogs.com/gif.latex?for%20%5C%20every%20%5C%20y%20%5C%20%5Cepsilon%20%5C%20Y%20%5C%20%5Cexists%20%5C%20at%20%5C%20least%20%5C%201%20%5C%20x%20%5C%20%5Cepsilon%20%5C%20X%20%3A%20%28such%5C%20that%29%20%5C%20f%28x%29%3Dy)
+
+>br>
+<br>
+
+__Injective / "one-to-one"__: the function __f__ is injective/ "one-to-one" if:
+
+![equation](https://latex.codecogs.com/gif.latex?for%20%5C%20every%20%5C%20y%20%5C%20%5Cepsilon%20%5C%20Y%20%5C%20%5Cexists%20%5C%20at%20%5C%20most%20%5C%201%20%5C%20x%20%5C%20%5Cepsilon%20%5C%20X%20%3A%20%5C%20f%28x%29%3Dy)
