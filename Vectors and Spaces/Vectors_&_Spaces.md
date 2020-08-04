@@ -55,9 +55,9 @@ If given the span of two vectors:
 
 ![equation](https://latex.codecogs.com/gif.latex?Span%5C%7B%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5C...%20%5C%5Cx_%7Bn%7D%20%5Cend%7Bbmatrix%7D%2C%20%5Cbegin%7Bbmatrix%7D%20y_%7B1%7D%5C%5C...%20%5C%5Cy_%7Bn%7D%20%5Cend%7Bbmatrix%7D%20%5C%7D)
 
-This will represent a plane in R<sup>n</sup>.
+This will represent a plane in R<sup>n</sup> if both column vectors are from free variables.
 
-If given a span of 1 vector:
+If given a span of 1 vector or 1 column vector of a free variable and a column vector not associated with a free variable:
 
 ![equation](https://latex.codecogs.com/gif.latex?Span%5C%7B%5Cbegin%7Bbmatrix%7D%20x_%7B1%7D%5C%5C...%20%5C%5Cx_%7Bn%7D%20%5Cend%7Bbmatrix%7D%20%5C%7D)
 
