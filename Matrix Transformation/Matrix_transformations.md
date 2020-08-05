@@ -333,3 +333,14 @@ Note that switch rows equals the negative of determinant.
 <br>
 <br>
 
+__Determinant and Area of a Parallelogram__: consider a 2x2 matrix __A__:
+
+![equation](https://latex.codecogs.com/gif.latex?A%20%3D%20%5Cbegin%7Bbmatrix%7D%20a%20%26%20b%5C%5C%20c%26%20d%20%5Cend%7Bbmatrix%7D)
+
+we may consider the matrix's two column vectors as two vectors forming half of a parallelogram:
+
+![parallelogram](https://user-images.githubusercontent.com/68278907/89453413-82876e00-d75f-11ea-96ca-2304945884cc.png)
+
+
+
+
