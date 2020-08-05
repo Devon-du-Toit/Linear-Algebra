@@ -260,4 +260,11 @@ __Determinent when row multiplied by scalar__: the determinent of a matrix row m
 <br>
 
 __Determinent when rows are added__: considering a particular case where two matrices are exactly similar, except for 1 row each, the determinent of the sum of these two matrices are:
+![equation](https://latex.codecogs.com/gif.latex?X%3D%20%5Cbegin%7Bvmatrix%7D%20a_%7B11%7D%20%26%20a_%7B12%7D%20%26%20...%26a_%7B1n%7D%20%5C%5C%20x_%7B1%7D%20%26x_%7B2%7D%20%26%20...%26%20x_%7Bn%7D%20%5C%5C%20...%26%20%26%20%26...%5C%5C%20a_%7Bn1%7D%20%26%20a_%7Bn2%7D%20%26%20...%26%20a_%7Bnn%7D%20%5Cend%7Bvmatrix%7D%20%2C%20%5C%20Y%3D%20%5Cbegin%7Bvmatrix%7D%20a_%7B11%7D%20%26%20a_%7B12%7D%20%26%20...%26a_%7B1n%7D%20%5C%5C%20y_%7B1%7D%20%26y_%7B2%7D%20%26%20...%26%20y_%7Bn%7D%20%5C%5C%20...%26%20%26%20%26...%5C%5C%20a_%7Bn1%7D%20%26%20a_%7Bn2%7D%20%26%20...%26%20a_%7Bnn%7D%20%5Cend%7Bvmatrix%7D%20%5C%5C%20%2C%20%5C%20Z%20%3D%20%5Cbegin%7Bvmatrix%7D%20a_%7B11%7D%20%26%20a_%7B12%7D%20%26%20...%26a_%7B1n%7D%20%5C%5C%20x_%7B1%7D&plus;y_%7B1%7D%20%26x_%7B2%7D&plus;y_%7B2%7D%20%26%20...%26%20x_%7Bn%7Dy_%7Bn%7D%20%5C%5C%20...%26%20%26%20%26...%5C%5C%20a_%7Bn1%7D%20%26%20a_%7Bn2%7D%20%26%20...%26%20a_%7Bnn%7D%20%5Cend%7Bvmatrix%7D)
 
+det(Z)=
+
+![equation](https://latex.codecogs.com/gif.latex?%5Csum_%7Bj%3D1%7D%5E%7Bn%7D%28-1%29%5E%7Bi&plus;j%7D%20%28x_%7Bj%7D&plus;y_%7Bj%7D%29%5Cbegin%7Bvmatrix%7D%20A_%7Bij%7D%20%5Cend%7Bvmatrix%7D)
+
+<br>
+<br>
