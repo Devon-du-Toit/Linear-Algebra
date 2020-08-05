@@ -246,7 +246,7 @@ __Determinant__: for a 2x2 matrix:
 
 for a 3x3 matrix:
 
-![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20For%20%5C%20matrix%20%5C%20A%3D%5Cbegin%7Bbmatrix%7D%20a_%7B11%7D%20%26a_%7B12%7D%20%26%20a_%7B13%7D%20%5C%5C%20a_%7B21%7D%20%26a_%7B22%7D%20%26%20a_%7B23%7D%20%5C%5C%20a_%7B31%7D%20%26a_%7B32%7D%20%26%20a_%7B33%7D%20%5Cend%7Bbmatrix%7D%20%5C%20%2CDet%28A%29%3D%5Cbegin%7Bvmatrix%7D%20a_%7B11%7D%20%26a_%7B12%7D%20%26%20a_%7B13%7D%20%5C%5C%20a_%7B21%7D%20%26a_%7B22%7D%20%26%20a_%7B23%7D%20%5C%5C%20a_%7B31%7D%20%26a_%7B32%7D%20%26%20a_%7B33%7D%20%5Cend%7Bvmatrix%7D%20%3D%20%5C%5C%20a_%7B11%7D%5Cbegin%7Bvmatrix%7D%20a_%7B22%7D%20%26%20a_%7B23%7D%20%5C%5C%20a_%7B32%7D%20%26%20a_%7B33%7D%20%5Cend%7Bvmatrix%7D%20-a_%7B21%7D%5Cbegin%7Bvmatrix%7D%20a_%7B21%7D%20%26%20a_%7B23%7D%20%5C%5C%20a_%7B31%7D%20%26%20a_%7B33%7D%20%5Cend%7Bvmatrix%7D%20&plus;a_%7B13%7D%5Cbegin%7Bvmatrix%7D%20a_%7B21%7D%20%26%20a_%7B22%7D%20%5C%5C%20a_%7B31%7D%20%26%20a_%7B32%7D%20%5Cend%7Bvmatrix%7D%20%5Cend%7Balign*%7D)
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bvmatrix%7D%20kA%20%5Cend%7Bvmatrix%7D%20%3D%20%5Cbegin%7Bvmatrix%7D%20a_%7B11%7D%20%26%20a_%7B12%7D%20%26%20...%20%26%20a_%7B1n%7D%20%5C%5C%20ka_%7B21%7D%20%26%20ka_%7B22%7D%20%26%20...%20%26%20ka_%7B2n%7D%20%5C%5C%20...%26%20%26%26...%20%5C%5C%20a_%7Bn1%7D%20%26%20a_%7Bn2%7D%20%26%20...%20%26%20a_%7Bnn%7D%20%5Cend%7Bvmatrix%7D%20%5C%5C%20%3D%20%28-1%29%5E%7Bi&plus;1%7Da_%7Bi1%7Ddet%28Ai1%29&plus;a_%7Bi2%7Ddet%28Ai2%29&plus;...&plus;a%7Bin%7Ddet%28A_in%29)
 
 <br>
 <br>
@@ -254,7 +254,7 @@ for a 3x3 matrix:
 
 __Determinent when row multiplied by scalar__: the determinent of a matrix row multiplied by a scalar is:
 
-![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bvmatrix%7D%20kA%20%5Cend%7Bvmatrix%7D%20%3D%20%5Cbegin%7Bvmatrix%7D%20a_%7B11%7D%20%26%20a_%7B12%7D%20%26%20...%20%26%20_%7B1n%7D%20%5C%5C%20ka_%7B21%7D%20%26%20ka_%7B22%7D%20%26%20...%20%26%20k_%7B2n%7D%20%5C%5C%20...%26%20%26%26...%20%5C%5C%20a_%7Bn1%7D%20%26%20a_%7Bn2%7D%20%26%20...%20%26%20_%7Bnn%7D%20%5Cend%7Bvmatrix%7D%20%5C%5C%20%3D%28-1%29%5E%7Bi&plus;1%7Da_%7Bi1%7Ddet%28Ai1%29&plus;a_%7Bi2%7Ddet%28Ai2%29&plus;...&plus;a%7Bin%7Ddet%28A_%7Bin%7D%29)
+![equation]()
 
 <br>
 <br>
