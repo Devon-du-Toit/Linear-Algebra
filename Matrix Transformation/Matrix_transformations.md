@@ -324,3 +324,12 @@ the determinent will be equal to the product of it's diagonal:
 <br>
 <br>
 
+__Row operations and determinants__: performing row operations do not change the determinant:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bvmatrix%7D%201%20%262%20%261%20%5C%5C%201%263%20%262%20%5C%5C%201%264%20%264%20%5Cend%7Bvmatrix%7D%20%3D%20%5Cbegin%7Bvmatrix%7D%201%20%262%20%261%20%5C%5C%200%261%20%261%20%5C%5C%200%260%20%261%20%5Cend%7Bvmatrix%7D%20%3D%201)
+
+Note that switch rows equals the negative of determinant.
+
+<br>
+<br>
+
