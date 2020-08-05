@@ -269,3 +269,34 @@ det(Z)=
 
 <br>
 <br>
+
+__Duplicate row determinant__: Consider a matrix __A__ which has the rows:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bvmatrix%7D%20a_%7B11%7D%20%26a_%7B12%7D%20%26...%20%26a_%7B1n%7D%20%5C%5C%20a_%7B11%7D%20%26a_%7B12%7D%20%26...%20%26a_%7B1n%7D%20%5C%5C%20...%20%26%20%26%20%26%20...%5C%5C%20i_%7B1%7D%20%26i_%7B2%7D%20%26...%20%26i_%7Bn%7D%20%5C%5C%20j_%7B1%7D%20%26j_%7B2%7D%20%26...%20%26j_%7Bn%7D%20%5C%5C%20...%20%26%20%26%20%26%20...%5C%5C%20a_%7B11%7D%20%26a_%7B12%7D%20%26...%20%26a_%7B1n%7D%20%5Cend%7Bvmatrix%7D)
+
+if we denote row 1 by:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Br%7D_%7B1%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20a_%7B11%7D%20%26%20a_%7B12%7D%20%26%20...%20%26%20a_%7B1n%7D%20%5Cend%7Bbmatrix%7D)
+
+then __A__ may be written as:
+
+![equation](https://latex.codecogs.com/gif.latex?A%20%3D%20%5Cbegin%7Bbmatrix%7D%20%5Coverrightarrow%7Br%7D_%7B1%7D%5C%5C%20%5Coverrightarrow%7Br%7D_%7B2%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bi%7D%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bj%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bn%7D%5C%5C%20%5Cend%7Bbmatrix%7D)
+
+if we then have a matrix __B__ such that __B__ is similar to __A__ except for a row switch:
+
+![equation](https://latex.codecogs.com/gif.latex?B%20%3D%20%5Cbegin%7Bbmatrix%7D%20%5Coverrightarrow%7Br%7D_%7B1%7D%5C%5C%20%5Coverrightarrow%7Br%7D_%7B2%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bj%7D%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bi%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bn%7D%5C%5C%20%5Cend%7Bbmatrix%7D)
+
+then:
+
+*det(A) = -det(B)*
+
+this in turns implies:
+
+*matrices with duplicate rows are not invertible* and *the determinant of a matrix with duplicate rows = 0*.
+
+<br>
+<br>
+
+__Determinant after row operations__: consider two matrices:
+
+![equation](https://latex.codecogs.com/gif.latex?A%20%3D%20%5Cbegin%7Bbmatrix%7D%20%5Coverrightarrow%7Br%7D_%7B1%7D%5C%5C%20%5Coverrightarrow%7Br%7D_%7B2%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bj%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bi%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bn%7D%5C%5C%20%5Cend%7Bbmatrix%7D%20%5C%26%20B%20%3D%20%5Cbegin%7Bbmatrix%7D%20%5Coverrightarrow%7Br%7D_%7B1%7D%5C%5C%20%5Coverrightarrow%7Br%7D_%7B2%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bj%7D%5C%5C%20...%5C%5C%20-c%5Coverrightarrow%7Br%7D_%7Bj%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bn%7D%5C%5C%20%5Cend%7Bbmatrix%7D)
