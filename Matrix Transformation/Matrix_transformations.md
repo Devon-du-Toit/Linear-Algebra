@@ -297,9 +297,9 @@ this in turns implies:
 <br>
 <br>
 
-__Determinant after row operations__: consider two matrices:
+__Determinant after row operations__: consider a matrix:
 
-![equation](https://latex.codecogs.com/gif.latex?A%20%3D%20%5Cbegin%7Bbmatrix%7D%20%5Coverrightarrow%7Br%7D_%7B1%7D%5C%5C%20%5Coverrightarrow%7Br%7D_%7B2%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bj%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bi%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bn%7D%5C%5C%20%5Cend%7Bbmatrix%7D%20%5C%26%20B%20%3D%20%5Cbegin%7Bbmatrix%7D%20%5Coverrightarrow%7Br%7D_%7B1%7D%5C%5C%20%5Coverrightarrow%7Br%7D_%7B2%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bj%7D%5C%5C%20...%5C%5C%20-c%5Coverrightarrow%7Br%7D_%7Bj%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bn%7D%5C%5C%20%5Cend%7Bbmatrix%7D)
+![equation](https://latex.codecogs.com/gif.latex?B%3D%5Cbegin%7Bvmatrix%7D%20%5Coverrightarrow%7Br%7D_%7B1%7D%5C%5C%20%5Coverrightarrow%7Br%7D_%7B2%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bj%7D%5C%5C%20...%5C%5C%20-c%5Coverrightarrow%7Br%7D_%7Bj%7D%5C%5C%20...%5C%5C%20%5Coverrightarrow%7Br%7D_%7Bn%7D%20%5Cend%7Bvmatrix%7D)
 
 According to determinant scalar multlipication:
 
