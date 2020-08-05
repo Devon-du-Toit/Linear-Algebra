@@ -250,3 +250,14 @@ for a 3x3 matrix:
 
 <br>
 <br>
+
+
+__Determinent when row multiplied by scalar__: the determinent of a matrix row multiplied by a scalar is:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bvmatrix%7D%20kA%20%5Cend%7Bvmatrix%7D%20%3D%20%5Cbegin%7Bvmatrix%7D%20a_%7B11%7D%20%26%20a_%7B12%7D%20%26%20...%20%26%20_%7B1n%7D%20%5C%5C%20ka_%7B21%7D%20%26%20ka_%7B22%7D%20%26%20...%20%26%20k_%7B2n%7D%20%5C%5C%20...%26%20%26%26...%20%5C%5C%20a_%7Bn1%7D%20%26%20a_%7Bn2%7D%20%26%20...%20%26%20_%7Bnn%7D%20%5Cend%7Bvmatrix%7D%20%5C%5C%20%3D%28-1%29%5E%7Bi&plus;1%7Da_%7Bi1%7Ddet%28Ai1%29&plus;a_%7Bi2%7Ddet%28Ai2%29&plus;...&plus;a%7Bin%7Ddet%28A_%7Bin%7D%29)
+
+<br>
+<br>
+
+__Determinent when rows are added__: considering a particular case where two matrices are exactly similar, except for 1 row each, the determinent of the sum of these two matrices are:
+
