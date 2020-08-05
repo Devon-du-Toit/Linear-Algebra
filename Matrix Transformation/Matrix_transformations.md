@@ -308,3 +308,19 @@ According to determinant scalar multlipication:
 and as there is a duplicate row:
 
 ![equation](https://latex.codecogs.com/gif.latex?det%28B%29%3D0)
+
+<br>
+<br>
+
+__Upper Triangle Determinant__: Consider an upper nxn triangle matrix:
+
+![equation](https://latex.codecogs.com/gif.latex?A%20%3D%20%5Cbegin%7Bvmatrix%7D%20a_%7B11%7D%20%26%20a_%7B12%7D%26%20...%20%26a_%7B1n%7D%20%5C%5C%200%20%26%20a_%7B22%7D%26%20...%20%26a_%7B2n%7D%20%5C%5C%200%20%26%200%20%26%20...%20%26a_%7B3n%7D%20%5C%5C%20...%26%20...%20%26%20...%20%26%20...%5C%5C%200%26%200%26%20...%26%20a_%7Bnn%7D%20%5Cend%7Bvmatrix%7D)
+
+the determinent will be equal to the product of it's diagonal:
+
+
+![equation](https://latex.codecogs.com/gif.latex?det%28A%29%20%3D%20a_%7B11%7Da_%7B22%7D...a_%7Bnn%7D)
+
+<br>
+<br>
+
