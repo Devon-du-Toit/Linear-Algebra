@@ -375,3 +375,17 @@ to:
 the relationship between the area of the rectangle and image under T is:
 
 ![equation](https://latex.codecogs.com/gif.latex?for%20%5C%20transformation%20%5C%20T%5Coverrightarrow%7Bx%7D%20%3D%20B%5Coverrightarrow%7Bx%7D%5C%5C%20Area_%7Brectangle%7D%20%3D%20%5Cbegin%7Bvmatrix%7DA%20%5C%20det%28B%29%20%5Cend%7Bvmatrix%7D%20%5C%5C)
+
+<br>
+<br>
+
+__Transpose of a matrix__: Consider a mxn matrix __A__:
+
+![equation](https://latex.codecogs.com/gif.latex?A%20%3D%20%5Cbegin%7Bbmatrix%7D%20a_%7B11%7D%20%26a_%7B12%7D%20%26%20...%20%26%20a_%7B1n%7D%5C%5C%20a_%7B21%7D%20%26a_%7B22%7D%20%26%20...%20%26%20a_%7B2n%7D%5C%5C%20...%20%26...%20%26%20...%26%20...%5C%5C%20a_%7Bm1%7D%20%26a_%7Bm2%7D%20%26%20...%20%26%20a_%7Bmn%7D%5C%5C%20%5Cend%7Bbmatrix%7D)
+
+The transpose will be a nxm matrix:
+
+![equation](https://latex.codecogs.com/gif.latex?A%5E%7B%5Cdagger%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20a_%7B11%7D%20%26%20a_%7B21%7D%20%26%20...%20%26%20a_%7Bm1%7D%5C%5C%20a_%7B12%7D%20%26a_%7B22%7D%20%26%20...%20%26%20a_%7Bm2%7D%5C%5C%20...%20%26...%20%26%20...%26%20...%5C%5C%20a_%7B1n%7D%26a_%7B2n%7D%20%26%20...%20%26%20a_%7Bmn%7D%5C%5C%20%5Cend%7Bbmatrix%7D)
+
+<br>
+<br>
