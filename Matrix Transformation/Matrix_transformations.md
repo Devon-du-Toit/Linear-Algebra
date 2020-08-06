@@ -403,4 +403,4 @@ __Transpose Properties__:
 
 __Rowspace__: The columnspaceof a transpose matrix:
 
-![equation](https://latex.codecogs.com/gif.latex?C%28A%5E%7B%5Cdagger%7D%29%20%3D%20Rowspace%20of%20A)
+![equation](https://latex.codecogs.com/gif.latex?C%28A%5E%7B%5Cdagger%7D%29%20%3D%20Rowspace%20%5C%20of%20%5C%20A)
