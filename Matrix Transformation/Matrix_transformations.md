@@ -360,3 +360,18 @@ To find
 which simplify to:
 
 ![equation](https://latex.codecogs.com/gif.latex?A%3D%5Cbegin%7Bvmatrix%7D%20det%28A%29%20%5Cend%7Bvmatrix%7D)
+
+<br>
+<br>
+
+__Determinant as scaling factor__: consider a transformation:
+
+![area_2](https://user-images.githubusercontent.com/68278907/89563483-ca6bcb00-d81b-11ea-98e3-a8b4b03c1f04.png)
+
+to:
+
+![area_3](https://user-images.githubusercontent.com/68278907/89563617-ff781d80-d81b-11ea-93a3-2a67271bd921.png)
+
+the relationship between the area of the rectangle and image under T is:
+
+![equation](https://latex.codecogs.com/gif.latex?for%20%5C%20transformation%20%5C%20T%5Coverrightarrow%7Bx%7D%20%3D%20B%5Coverrightarrow%7Bx%7D%5C%5C%20Area_%7Brectangle%7D%20%3D%20%5Cbegin%7Bvmatrix%7DA%20%5C%20det%28B%29%20%5Cend%7Bvmatrix%7D%20%5C%5C)
