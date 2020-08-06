@@ -342,5 +342,14 @@ we may consider the matrix's two column vectors as two vectors forming half of a
 ![parallelogram](https://user-images.githubusercontent.com/68278907/89453413-82876e00-d75f-11ea-96ca-2304945884cc.png)
 
 
+The area of the parallelogram may be determined with:
+
+![equation](https://latex.codecogs.com/gif.latex?A%20%3D%20b%5Cperp%20h)
+
+for:
+
+![parallelogram_2](https://user-images.githubusercontent.com/68278907/89536525-553ace80-d7f8-11ea-90ee-06158c26ae91.png)
+
+
 
 
