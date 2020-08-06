@@ -389,3 +389,18 @@ The transpose will be a nxm matrix:
 
 <br>
 <br>
+
+__Transpose Properties__:
+
+![equation](https://latex.codecogs.com/gif.latex?det%28A%5E%7B%5Cdagger%7D%29%20%3D%20det%28A%29)
+
+![equation](https://latex.codecogs.com/gif.latex?%28AB%29%5E%7B%5Cdagger%7D%20%3D%20B%5E%7B%5Cdagger%7DA%5E%7B%5Cdagger%7D)
+
+![equation](https://latex.codecogs.com/gif.latex?%28A&plus;B%29%5E%7B%5Cdagger%7D%20%3D%20A%5E%7B%5Cdagger%7D&plus;B%5E%7B%5Cdagger%7D)
+
+<br>
+<br>
+
+__Rowspace__: The columnspaceof a transpose matrix:
+
+![equation](https://latex.codecogs.com/gif.latex?C%28A%5E%7B%5Cdagger%7D%29%20%3D%20Rowspace%20of%20A)
