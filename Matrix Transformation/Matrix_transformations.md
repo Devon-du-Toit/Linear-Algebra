@@ -337,6 +337,8 @@ __Determinant and Area of a Parallelogram__: consider a 2x2 matrix __A__:
 
 ![equation](https://latex.codecogs.com/gif.latex?A%20%3D%20%5Cbegin%7Bbmatrix%7D%20a%20%26%20b%5C%5C%20c%26%20d%20%5Cend%7Bbmatrix%7D)
 
+![equation](https://latex.codecogs.com/gif.latex?let%20%5Coverrightarrow%7Bv%7D_%7B1%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20a%20%5C%5C%20c%20%5Cend%7Bbmatrix%7D%20%5C%20and%20%5C%20%5Coverrightarrow%7Bv%7D_%7B2%7D%3D%20%5Cbegin%7Bbmatrix%7D%20b%5C%5C%20d%20%5Cend%7Bbmatrix%7D)
+
 we may consider the matrix's two column vectors as two vectors forming half of a parallelogram:
 
 ![parallelogram](https://user-images.githubusercontent.com/68278907/89453413-82876e00-d75f-11ea-96ca-2304945884cc.png)
@@ -351,5 +353,10 @@ for:
 ![parallelogram_2](https://user-images.githubusercontent.com/68278907/89536525-553ace80-d7f8-11ea-90ee-06158c26ae91.png)
 
 
+To find 
 
+![equation](https://latex.codecogs.com/gif.latex?%5Cperp%20h%5E%7B2%7D%20%3D%20%5Coverrightarrow%7Bv%7D_%7B1%7D%5E%7B2%7D-Proj_%7BL%7D%5Coverrightarrow%7Bv%7D_%7B2%7D%5E%7B2%7D)
 
+which simplify to:
+
+![equation](https://latex.codecogs.com/gif.latex?A%3D%5Cbegin%7Bvmatrix%7D%20det%28A%29%20%5Cend%7Bvmatrix%7D)
