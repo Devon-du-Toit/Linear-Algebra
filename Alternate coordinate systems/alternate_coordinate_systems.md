@@ -14,4 +14,4 @@ __Eigenvectors and Eigenvalues__: consider the transformation:
 
 where:
 
-![equation](href="https://www.codecogs.com/eqnedit.php?latex=\begin{align*}&space;\overrightarrow{v}&space;=&space;eigenvector&space;\\&space;\lambda&space;=&space;eigenvalue&space;\end{align*}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{align*}&space;\overrightarrow{v}&space;=&space;eigenvector&space;\\&space;\lambda&space;=&space;eigenvalue&space;\end{align*}" title="\begin{align*} \overrightarrow{v} = eigenvector \\ \lambda = eigenvalue \end{align*}")
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20%5Coverrightarrow%7Bv%7D%20%3D%20eigenvector%20%5C%5C%20%5Clambda%20%3D%20eigenvalue%20%5Cend%7Balign*%7D)
