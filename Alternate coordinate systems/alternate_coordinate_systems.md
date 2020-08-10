@@ -24,3 +24,10 @@ __Determining Eigenvalues__:
 __Eigenspace__: for any eigenvalue, λ:
 
 ![equation](https://latex.codecogs.com/gif.latex?E_%7B%5Clambda%7D%20%3D%20N%28%5Clambda%20I_%7Bn%7D-A%29)
+
+<br>
+<br>
+
+__Determining Eigenvectors__: 
+
+![equation](https://latex.codecogs.com/gif.latex?%28%5Clambda%20I_%7Bn%7D-A%29%5Coverrightarrow%7Bv%7D%3D%5Coverrightarrow%7B0%7D)
