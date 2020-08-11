@@ -2,6 +2,41 @@
 <br>
 <br>
 
+__Orthogonal Complement__: Let V be be some subspace of R<sup>n</sup>, then:
+
+![equation](https://latex.codecogs.com/gif.latex?V%5Cperp%20%3D%5C%7B%20%5Coverrightarrow%7Bx%7D%20%5C%20%5Cepsilon%20%5C%20%5Cmathbb%7BR%7D%5E%7Bn%7D%20%5C%20%7C%20%5C%20%5Coverrightarrow%7Bx%7D%5Ccdot%20%5Coverrightarrow%7Bv%7D%20%3D%200%20%5C%20%5Cforall%20%5C%20%5Coverrightarrow%7Bv%7D%20%5C%20%5Cepsilon%20%5C%20V%20%5C%7D)
+
+The nullspace of a matrix is the orthogonal complement of its rowspace:
+
+![equation](https://latex.codecogs.com/gif.latex?N%28A%29%3D%5Cleft%28%20C%28A%5E%7BT%7D%29%20%5Cright%29%5E%7B%5Cperp%7D)
+
+similarly:
+
+![equation](https://latex.codecogs.com/gif.latex?N%28B%5E%7BT%7D%29%3DC%28B%29%5E%7B%5Cperp%7D)
+
+We may find the number of rows of a matrix by:
+
+![equation](https://latex.codecogs.com/gif.latex?dim%28V%29&plus;dim%28V%5E%7B%5Cperp%7D%29%3Dn)
+
+Any vector within R<sup>n</sup> may be represented as a sum of a vector in the subspace and the subspace's complement:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Ba%7D%20%3D%20%5Coverrightarrow%7Bv%7D&plus;%5Coverrightarrow%7Bx%7D)
+
+For *x&#8407;* the orthogonal complement of *v&#8407;* .
+
+<br>
+<br>
+
+__Unique Solution to Ax=b__: There exists a unique member of the rowspace of A ( C(A<sup>T</sup>) ), *r&#8407;<sub>0</sub>* : *r&#8407;<sub>0</sub>* is a solution to A*x&#8407;*=*b&#8407;*.
+
+![equation](https://latex.codecogs.com/gif.latex?Let%5C%20%5Coverrightarrow%7Br%7D_%7B0%7D%5C%20%5Cepsilon%20%5C%20C%28A%5E%7BT%7D%29)
+
+then:
+
+![equation](https://latex.codecogs.com/gif.latex?A%5Coverrightarrow%7Br%7D_%7B0%7D%20%3D%20%5Coverrightarrow%7Bb%7D)
+
+<br>
+<br>
 
 __Eigenvectors and Eigenvalues__: consider the transformation: 
 
