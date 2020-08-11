@@ -27,7 +27,7 @@ For *x&#8407;* the orthogonal complement of *v&#8407;* .
 <br>
 <br>
 
-__Unique Solution to Ax=b__: There exists a unique member of the rowspace of A ( C(A<sup>T</sup>) ), *r&#8407;<sub>0</sub>* : *r&#8407;<sub>0</sub>* is a solution to A*x&#8407;*=*b&#8407;*.
+__Unique Solution to Ax=b__: If *b&#8407;* ∈ C(A) there exists a unique member of the rowspace of A ( C(A<sup>T</sup>) ), *r&#8407;<sub>0</sub>* : *r&#8407;<sub>0</sub>* is the shortest length solution to A*x&#8407;*=*b&#8407;*.
 
 ![equation](https://latex.codecogs.com/gif.latex?Let%5C%20%5Coverrightarrow%7Br%7D_%7B0%7D%5C%20%5Cepsilon%20%5C%20C%28A%5E%7BT%7D%29)
 
