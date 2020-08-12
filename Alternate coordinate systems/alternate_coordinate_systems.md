@@ -70,4 +70,13 @@ __Determining Eigenvectors__:
 <br>
 <br>
 
-__Projection onto subspace__:
+__Projection onto subspace__: Let V be a subspace of R<sup>n</sup>, tus V<sup>⊥</sup> is also a subspace. If *x&#8407;* ∈ R<sup>n</sup>: *x&#8407;*=*v&#8407;*+*w&#8407;* where *v&#8407;* ∈ V and *w&#8407;* ∈ V<sup>⊥</sup>, then:
+
+![equation](https://latex.codecogs.com/gif.latex?Proj_%7BV%7D%5Coverrightarrow%7Bx%7D%3D%5Coverrightarrow%7Bv%7D)
+
+and 
+
+![equation](https://latex.codecogs.com/gif.latex?Proj_%7BV%5E%7B%5Cperp%7D%7D%5Coverrightarrow%7Bx%7D%3D%5Coverrightarrow%7Bw%7D)
+
+<br>
+<br>
