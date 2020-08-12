@@ -78,5 +78,18 @@ and
 
 ![equation](https://latex.codecogs.com/gif.latex?Proj_%7BV%5E%7B%5Cperp%7D%7D%5Coverrightarrow%7Bx%7D%3D%5Coverrightarrow%7Bw%7D)
 
+The transformation of a projection may be found by:
+
+![equation](https://latex.codecogs.com/gif.latex?Proj_%7BV%7D%5Coverrightarrow%7Bx%7D%3DA%28A%5E%7BT%7DA%29%5E%7B-1%7DA%5E%7BT%7D%5Coverrightarrow%7Bx%7D)
+
 <br>
 <br>
+
+__Least Squares Approximation__:  To find x* where Ax*=b is as close to b as possible, if Ax=b has no solution:
+
+![equation](https://latex.codecogs.com/gif.latex?Ax%5E%7B*%7D%3DProj_%7BC%28A%29%7D%5Coverrightarrow%7Bb%7D)
+
+or simpler put:
+
+![equation](https://latex.codecogs.com/gif.latex?A%5E%7BT%7DAx%5E%7B*%7D%3DA%5E%7BT%5Coverrightarrow%7Bb%7D%7D)
+
