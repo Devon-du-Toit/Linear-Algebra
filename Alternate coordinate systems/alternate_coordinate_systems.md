@@ -66,3 +66,8 @@ __Eigenspace__: for any eigenvalue, λ:
 __Determining Eigenvectors__: 
 
 ![equation](https://latex.codecogs.com/gif.latex?%28%5Clambda%20I_%7Bn%7D-A%29%5Coverrightarrow%7Bv%7D%3D%5Coverrightarrow%7B0%7D)
+
+<br>
+<br>
+
+__Projection onto subspace__:
