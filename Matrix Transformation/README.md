@@ -8,7 +8,7 @@
 
 - Standard Basis for R<sup>n</sup>
 
-- Image of a subsetunder a transformation
+- Image of a subset under a transformation
 
 - Pre-image
 
