@@ -53,6 +53,10 @@ __Determining Eigenvalues__:
 
 ![equation](https://latex.codecogs.com/gif.latex?A%28%5Coverrightarrow%7Bv%7D%29%20%3D%20%5Clambda%5Coverrightarrow%7Bv%7D%20%5C%20for%20%5C%20non-zero%20%5C%20%5Coverrightarrow%7Bv%7D%20%5C%20iff.%20%5C%20%5Cdet%28%5Clambda%20I_%7Bn%7D-A%29%3D0)
 
+This would imply:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bvmatrix%7D%20a_%7B11%7D-%20%5Clambda%20%26a_%7B12%7D%26...%20%26a_%7B1n%7D%20%5C%5C%20a_%7B21%7D%20%26a_%7B22%7D-%20%5Clambda%26...%20%26a_%7B2n%7D%20%5C%5C%20...%26...%26...%26...%20%5C%5C%20a_%7Bm1%7D%20%26a_%7Bm2%7D%20%26...%26a_%7Bmn%7D%20%5Clambda%20%5Cend%7Bvmatrix%7D%3D0)
+
 <br>
 <br>
 
